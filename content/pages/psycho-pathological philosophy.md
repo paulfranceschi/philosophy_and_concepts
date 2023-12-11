@@ -22,7 +22,7 @@ This article aims to contribute to cognitive therapy of polythematic delusions b
 
 # On the Plausibility of Psychotic Hallucinations
 
-<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
+<img align="right" width="35%" src="/content/assets/images/Edvard Munch 1893 The_Scream.jpg">
 
 A paper published in the Journal for Neurocognitive Research,  Vol. 53, No 1-2 (2011).
 
