@@ -1,5 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
+DefaultContentLanguage = "en"
 title = 'Your New Hugo Site: Philosophy & Concepts'
 theme = "PaperMod"
 author = "Paul Franceschi"
