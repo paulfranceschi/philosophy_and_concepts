@@ -59,6 +59,8 @@ I proceed to describe several applications of the theory of n-universes through 
 
 # The Simulation Argument and the Reference Class Problem : a Dialectical Contextualism Analysis
 
+<img align="right" width="45%" src="/content/assets/images/simarg.jpg">
+
 English postprint of a paper initially published in French in Philosophiques, 2016, 43-2, pp. 371-389, under the title L’argument de la Simulation et le problème de la classe de référence : le point de vue du contextualisme dialectique
 
 ABSTRACT. I present in this paper an analysis of the Simulation Argument from a dialectical contextualist’s standpoint. This analysis is grounded on the reference class problem. I begin with describing in detail Bostrom’s Simulation Argument. I identify then the reference class within the Simulation Argument. I also point out a reference class problem, by applying the argument successively to three different reference classes: aware-simulations, imperfect simulations and immersion-simulations. Finally, I point out that there are three levels of conclusion within the Simulation Argument, depending on the chosen reference class, that yield each final conclusions of a fundamentally different nature.
