@@ -1,5 +1,7 @@
 # On a Class of Concepts
 
+<img align="right" width="60%" src="/content/assets/images/matrix of concepts instance.jpg">
+
 Posprint in English (with additional illustrations) of a paper published in French in Semiotica, vol. 139 (1-4), 2002, 211-226, under the title “Une Classe de Concepts”.
 
 This article describes the construction, of philosophical essence, of the class of the matrices of concepts, whose structure and properties present an interest in several fields. The paper emphasises the applications in the field of paradigmatic analysis of the resulting taxonomy and proposes it as an alternative to the semiotic square put forth by Greimas.
@@ -8,6 +10,8 @@ This article describes the construction, of philosophical essence, of the class
 <p></p>
 
 # The Problem of the Relationships of Love-Hate-Indifference
+
+<img align="right" width="60%" src="/content/assets/images/matrix of concepts.jpg">
 
 English translation of a paper published in French in Semiotica, vol. 150(1-4), 2004 under the title “Le problème des relations amour-haine-indifférence”.
 
