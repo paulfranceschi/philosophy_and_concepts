@@ -1,6 +1,6 @@
 # A Two-Sided Ontological Solution to the Sleeping Beauty Problem
 
-<img align="right" width="35%" src="/content/assets/images/Sleeping_Beauty.jpg">
+<img align="right" width="45%" src="/content/assets/images/Sleeping_Beauty.jpg">
 
 Preprint published on the PhilSci archive.
 
@@ -10,7 +10,7 @@ This account supersides my previous preprints on this topic. Please do no cite p
 <p></p>
 <hr>
 <p></p>
-Elements of Dialectical Contextualism
+# Elements of Dialectical Contextualism
 
 Posprint in English (with additional illustrations) of  an article appeared in French in the collective book (pages 581-608) written on the occasion of the 60th birthday of Pascal Engel.
 
@@ -18,7 +18,9 @@ Abstract In what follows, I strive to present the elements of a philosophical do
 <p></p>
 <hr>
 <p></p>
-A Third Route to the Doomsday Argument
+# A Third Route to the Doomsday Argument
+
+<img align="right" width="45%" src="/content/assets/images/da640x480.jpg">
 
 A paper published (2009) in English in the Journal of Philosophical Research, vol. 34, pages 263-278 (with significant changes with regard to the preprint).
 
@@ -26,12 +28,16 @@ In this paper, I present a solution to the Doomsday argument based on a third ty
 <p></p>
 <hr>
 <p></p>
-A Solution to Goodman’s Paradox
+# A Solution to Goodman’s Paradox
+
+<img align="right" width="45%" src="/content/assets/images/grue640x480.jpg">
 
 English Posprint (with additional illustrations) of a paper published in French in Dialogue Vol. 40, Winter 2001, pp. 99-123 under the title “Une Solution pour le Paradoxe de Goodman”.
 In the classical version of Goodman’s paradox, the universe where the problem takes place is ambiguous. The conditions of induction being accurately described, I define then a framework of n-universes, allowing the distinction, among the criteria of a given n-universe, between constants and variables. Within this framework, I distinguish between two versions of the problem, respectively taking place: (i) in an n-universe the variables of which are colour and time; (ii) in an n-universe the variables of which are colour, time and space. Finally, I show that each of these versions admits a specific resolution.
 
-A Dichotomic Analysis of the Surprise Examination Paradox
+# A Dichotomic Analysis of the Surprise Examination Paradox
+
+<img align="right" width="45%" src="/content/assets/images/da640x480.jpg">
 
 English translation of a paper appeared in French in Philosophiques 2005, vol. 32, pages 399-421 (with minor changes with regard to the published version).
 
