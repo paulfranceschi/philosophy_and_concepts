@@ -1,0 +1,20 @@
+baseURL = '/'
+languageCode = 'en-us'
+DefaultContentLanguage = "en"
+title = 'Your New Hugo Site: Philosophy & Concepts'
+theme = "PaperMod"
+author = "Paul Franceschi"
+copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
