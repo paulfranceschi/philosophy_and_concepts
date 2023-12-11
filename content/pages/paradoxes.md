@@ -45,13 +45,13 @@ This paper proposes a new framework to solve the surprise examination paradox. I
 <p></p>
 <hr>
 <p></p>
-Probabilistic Situations for Goodmanian N-universes
+#  Probabilistic Situations for Goodmanian N-universes
 
 A paper appeared (2006) in French in the Journal of Philosophical Research, vol. 31, pages 123-141, under the title “Situations probabilistes pour n-univers goodmaniens.”
 
 I proceed to describe several applications of the theory of n-universes through several different probabilistic situations. I describe first how n-universes can be used as an extension of the probability spaces used in probability theory. The extended probability spaces thus defined allow for a finer modelling of complex probabilistic situations and fits more intuitively with our intuitions related to our physical universe. I illustrate then the use of n-universes as a methodological tool, with two thought experiments described by John Leslie. Lastly, I model Goodman’s paradox in the framework of n-universes while also showing how these latter appear finally very close to goodmanian worlds.
 
-The Simulation Argument and the Reference Class Problem : a Dialectical Contextualism Analysis
+# The Simulation Argument and the Reference Class Problem : a Dialectical Contextualism Analysis
 
 English postprint of a paper initially published in French in Philosophiques, 2016, 43-2, pp. 371-389, under the title L’argument de la Simulation et le problème de la classe de référence : le point de vue du contextualisme dialectique
 
@@ -59,7 +59,9 @@ ABSTRACT. I present in this paper an analysis of the Simulation Argument from a 
 <p></p>
 <hr>
 <p></p>
-A Solution to the Doomsday Argument
+# A Solution to the Doomsday Argument
+
+<img align="right" width="45%" src="/content/assets/images/da640x480.jpg">
 
 An article published in French in the Canadian Journal of Philosophy Volume 28, July1998, pages 227-46.
 
