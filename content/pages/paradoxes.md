@@ -1,4 +1,6 @@
-A Two-Sided Ontological Solution to the Sleeping Beauty Problem
+# A Two-Sided Ontological Solution to the Sleeping Beauty Problem
+
+<img align="right" width="35%" src="/content/assets/images/Sleeping_Beauty.jpg">
 
 Preprint published on the PhilSci archive.
 
