@@ -10,12 +10,47 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
 
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "HOME"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "paradoxes"
+    name = "PARADOXES"
+    url = "/paradoxes/"
     weight = 10
-  
+  [[menu.main]]
+    identifier = "study_of_concepts"
+    name = "STUDY OF CONCEPTS"
+    url = "/study_of_concepts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "psycho_pathological_philosophy"
+    name = "PSYCHO-PATHOLOGICAL PHILOSOPHY"
+    url = "/psycho_pathological_philosophy/"
+    weight = 10
+  [[menu.main]]
+    identifier = "ontology"
+    name = "ONTOLOGY"
+    url = "/ontology/"
+    weight = 10
+  [[menu.main]]
+    identifier = "books"
+    name = "BOOKS"
+    url = "/books/"
+    weight = 10  
+  [[menu.main]]
+    identifier = "courses"
+    name = "COURSES"
+    url = "/courses/"
+    weight = 10
+  [[menu.main]]
+    identifier = "reviews"
+    name = "REVIEWS"
+    url = "/reviews/"
+    weight = 10  
+   [[menu.main]]
+    identifier = "en_francais"
+    name = "EN FRANÇAIS"
+    url = "/en_francais/"
+    weight = 10
+   
