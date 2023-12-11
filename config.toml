@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Your New Hugo Site'
+title = 'Your New Hugo Site: Philosophy & Concepts'
 theme = "PaperMod"
 author = "Paul Franceschi"
 copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
