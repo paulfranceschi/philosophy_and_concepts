@@ -10,6 +10,7 @@ This account supersides my previous preprints on this topic. Please do no cite p
 <p></p>
 <hr>
 <p></p>
+
 # Elements of Dialectical Contextualism
 
 Posprint in English (with additional illustrations) of  an article appeared in French in the collective book (pages 581-608) written on the occasion of the 60th birthday of Pascal Engel.
@@ -18,6 +19,7 @@ Abstract In what follows, I strive to present the elements of a philosophical do
 <p></p>
 <hr>
 <p></p>
+
 # A Third Route to the Doomsday Argument
 
 <img align="right" width="45%" src="/content/assets/images/da640x480.jpg">
@@ -28,6 +30,7 @@ In this paper, I present a solution to the Doomsday argument based on a third ty
 <p></p>
 <hr>
 <p></p>
+
 # A Solution to Goodman’s Paradox
 
 <img align="right" width="45%" src="/content/assets/images/grue640x480.jpg">
@@ -48,6 +51,7 @@ This paper proposes a new framework to solve the surprise examination paradox. I
 <p></p>
 <hr>
 <p></p>
+
 #  Probabilistic Situations for Goodmanian N-universes
 
 A paper appeared (2006) in French in the Journal of Philosophical Research, vol. 31, pages 123-141, under the title “Situations probabilistes pour n-univers goodmaniens.”
@@ -67,6 +71,7 @@ ABSTRACT. I present in this paper an analysis of the Simulation Argument from a 
 <p></p>
 <hr>
 <p></p>
+
 # A Solution to the Doomsday Argument
 
 <img align="right" width="45%" src="/content/assets/images/da640x480.jpg">
@@ -77,7 +82,8 @@ This article presents a solution for the Doomsday Argument (DA). First, I show t
 <p></p>
 <hr>
 <p></p>
-The Doomsday Argument and Hempel’s Problem
+
+# The Doomsday Argument and Hempel’s Problem
 
 Posprint in English (with additional illustrations from wikimedia commons) of a paper published in French in the Canadian Journal of Philosophy Vol.29, July 1999, pp. 139-56 under the title “Comment l’Urne de Carter et Leslie se Déverse dans celle de Hempel”.
 I begin by describing a solution to Hempel’s Problem. I recall, second, the solution to the Doomsday Argument described in my previous Une Solution pour l’Argument de l’Apocalypse (Canadian Journal of Philosophy 1998-2) and remark that both solutions are based on a similar line of reasoning. I show thirdly that the Doomsday Argument can be reduced to the core of Hempel’s Problem.
