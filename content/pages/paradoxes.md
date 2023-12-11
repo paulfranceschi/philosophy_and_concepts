@@ -34,6 +34,9 @@ In this paper, I present a solution to the Doomsday argument based on a third ty
 
 English Posprint (with additional illustrations) of a paper published in French in Dialogue Vol. 40, Winter 2001, pp. 99-123 under the title “Une Solution pour le Paradoxe de Goodman”.
 In the classical version of Goodman’s paradox, the universe where the problem takes place is ambiguous. The conditions of induction being accurately described, I define then a framework of n-universes, allowing the distinction, among the criteria of a given n-universe, between constants and variables. Within this framework, I distinguish between two versions of the problem, respectively taking place: (i) in an n-universe the variables of which are colour and time; (ii) in an n-universe the variables of which are colour, time and space. Finally, I show that each of these versions admits a specific resolution.
+<p></p>
+<hr>
+<p></p>
 
 # A Dichotomic Analysis of the Surprise Examination Paradox
 
@@ -50,6 +53,9 @@ This paper proposes a new framework to solve the surprise examination paradox. I
 A paper appeared (2006) in French in the Journal of Philosophical Research, vol. 31, pages 123-141, under the title “Situations probabilistes pour n-univers goodmaniens.”
 
 I proceed to describe several applications of the theory of n-universes through several different probabilistic situations. I describe first how n-universes can be used as an extension of the probability spaces used in probability theory. The extended probability spaces thus defined allow for a finer modelling of complex probabilistic situations and fits more intuitively with our intuitions related to our physical universe. I illustrate then the use of n-universes as a methodological tool, with two thought experiments described by John Leslie. Lastly, I model Goodman’s paradox in the framework of n-universes while also showing how these latter appear finally very close to goodmanian worlds.
+<p></p>
+<hr>
+<p></p>
 
 # The Simulation Argument and the Reference Class Problem : a Dialectical Contextualism Analysis
 
