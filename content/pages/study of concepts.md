@@ -1,4 +1,4 @@
-On a Class of Concepts
+# On a Class of Concepts
 
 Posprint in English (with additional illustrations) of a paper published in French in Semiotica, vol. 139 (1-4), 2002, 211-226, under the title “Une Classe de Concepts”.
 
@@ -6,7 +6,8 @@ This article describes the construction, of philosophical essence, of the class
 <p></p>
 <hr>
 <p></p>
-The Problem of the Relationships of Love-Hate-Indifference
+
+# The Problem of the Relationships of Love-Hate-Indifference
 
 English translation of a paper published in French in Semiotica, vol. 150(1-4), 2004 under the title “Le problème des relations amour-haine-indifférence”.
 
@@ -14,6 +15,7 @@ In On a class of concepts (2002), I described a theory based on the matrices o
 <p></p>
 <hr>
 <p></p>
-The Dialectical Plan: an Alternative to the Paradigm
+
+# The Dialectical Plan: an Alternative to the Paradigm
 
 Posprint in English (with additional illustrations from wikimedia commons) of a paper published in French in Semiotica, vol. 146(1-4), 2003, 353-367, under the title “Le plan dialectique: pour une alternative au paradigme”. I apply the theory developed in On a Class of Concepts (2002) to the methodology for conceiving a plan. Regarding the dialectical plan, the paradigm is a plan whose structure is thesis-antithesis-synthesis. I describe a new
