@@ -18,4 +18,6 @@ In On a class of concepts (2002), I described a theory based on the matrices o
 
 # The Dialectical Plan: an Alternative to the Paradigm
 
+<img align="right" width="60%" src="/content/assets/images/presentation-en.jpg">
+
 Posprint in English (with additional illustrations from wikimedia commons) of a paper published in French in Semiotica, vol. 146(1-4), 2003, 353-367, under the title “Le plan dialectique: pour une alternative au paradigme”. I apply the theory developed in On a Class of Concepts (2002) to the methodology for conceiving a plan. Regarding the dialectical plan, the paradigm is a plan whose structure is thesis-antithesis-synthesis. I describe a new
