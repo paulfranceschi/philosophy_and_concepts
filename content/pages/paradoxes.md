@@ -87,7 +87,7 @@ This article presents a solution for the Doomsday Argument (DA). First, I show t
 
 # The Doomsday Argument and Hempel’s Problem
 
-<img align="right" width="45%" src="/content/assets/images/hempel_problem.jpg">
+<img align="right" width="45%" src="/content/assets/images/corvus_corax.jpg">
 
 Posprint in English (with additional illustrations from wikimedia commons) of a paper published in French in the Canadian Journal of Philosophy Vol.29, July 1999, pp. 139-56 under the title “Comment l’Urne de Carter et Leslie se Déverse dans celle de Hempel”.
 I begin by describing a solution to Hempel’s Problem. I recall, second, the solution to the Doomsday Argument described in my previous Une Solution pour l’Argument de l’Apocalypse (Canadian Journal of Philosophy 1998-2) and remark that both solutions are based on a similar line of reasoning. I show thirdly that the Doomsday Argument can be reduced to the core of Hempel’s Problem.
