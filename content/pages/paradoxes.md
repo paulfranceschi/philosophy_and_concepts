@@ -37,7 +37,7 @@ In the classical version of Goodman’s paradox, the universe where the problem 
 
 # A Dichotomic Analysis of the Surprise Examination Paradox
 
-<img align="right" width="45%" src="/content/assets/images/da640x480.jpg">
+<img align="right" width="45%" src="/content/assets/images/sep.jpg">
 
 English translation of a paper appeared in French in Philosophiques 2005, vol. 32, pages 399-421 (with minor changes with regard to the published version).
 
