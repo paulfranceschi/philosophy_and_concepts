@@ -1,4 +1,6 @@
-Differential Cognitive Treatment of Polythematic Delusions and Generalised Anxiety Disorder
+# Differential Cognitive Treatment of Polythematic Delusions and Generalised Anxiety Disorder
+
+<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
 
 English translation of a paper published in french under the title “Traitement cognitif différentiel des délires polythématiques et du trouble anxieux généralisé“, in the Journal de Thérapie Comportementale et Cognitive, 2011, vol. 21-4, pp. 121-125.
 
@@ -6,7 +8,10 @@ Schizophrenia is often associated with other physical and mental problems. Gener
 <p></p>
 <hr>
 <p></p>
-Polythematic Delusions and Logico-Theoretical vs. Experimentalist Turn of Mind
+
+# Polythematic Delusions and Logico-Theoretical vs. Experimentalist Turn of Mind
+
+<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
 
 A paper published in the Journal for Neurocognitive Research,  Vol.  2013, 55, No. 1-2.
 
@@ -14,7 +19,10 @@ This article aims to contribute to cognitive therapy of polythematic delusions b
 <p></p>
 <hr>
 <p></p>
-On the Plausibility of Psychotic Hallucinations
+
+# On the Plausibility of Psychotic Hallucinations
+
+<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
 
 A paper published in the Journal for Neurocognitive Research,  Vol. 53, No 1-2 (2011).
 
@@ -22,15 +30,22 @@ In this paper, we describe several factors that can contribute, from the patient
 <p></p>
 <hr>
 <p></p>
-A Logical Defence of Maher’s Model of Polythematic Delusions
+
+# A Logical Defence of Maher’s Model of Polythematic Delusions
+
+<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
 
 English translation of a paper published in French in Philosophiques, autumn 2008, under the title “Une défense logique du modèle de Maher pour les délires polythématiques”.
 
 In this paper, we proceed to describe a model for the formation and maintenance of polythematic delusions encountered in schizophrenia, which is in adequation with Brendan Maher’s account of delusions. Polythematic delusions are considered here as the conclusions of arguments triggered by apophenia that include some very common errors of reasoning such as post hoc fallacy and confirmation bias. We describe first the structure of reasoning which leads to delusions of reference, of telepathy and of influence, by distinguishing between the primary, secondary, tertiary and quaternary types of delusional arguments. These four levels of arguments correspond to a stage the nature of which is respectively instantial, inductive, interpretative at a monothematic level and interpretative at a polythematic level. We also proceed to identify accurately the fallacious steps in the corresponding reasoning. We expose then the role of apophenia in the elaboration of delusional ideas. Lastly, we describe the role played by the hallucinations in the present model.
+
 <p></p>
 <hr>
 <p></p>
-Theory of Cognitive Distortions: Over-generalisation and Labeling
+
+# Theory of Cognitive Distortions: Over-generalisation and Labeling
+
+<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
 
 English translation of a paper published in French in the Journal de Thérapie Comportementale et Cognitive, 2009, 19-4, pages 136-140 under the title “Théorie des distorsions cognitives : la sur-généralisation et l’étiquetage”.
 
@@ -38,7 +53,10 @@ In a previous article (Complements to a theory of cognitive distorsions, Journal
 <p></p>
 <hr>
 <p></p>
-Theory of Cognitive Distortions: Personalisation
+
+# Theory of Cognitive Distortions: Personalisation
+
+<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
 
 English translation of a paper published in French in the Journal de Thérapie Comportementale et Cognitive, 2010, 20-2, pages 51-55 under the title “Théorie des distorsions cognitives : la personnalisation”.
 
@@ -46,14 +64,20 @@ In a previous paper (Complements to a theory of cognitive distorsions, Journal 
 <p></p>
 <hr>
 <p></p>
-Theory of Cognitive Distortions: Application to Generalised Anxiety Disorder
+
+# Theory of Cognitive Distortions: Application to Generalised Anxiety Disorder
+
+<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
 
 English translation and postprint (with additional illustrations) of a paper published in French under the title “Théorie des distorsions cognitives : application à l’anxiété généralisée” in the Journal de Thérapie Comportementale et Cognitive, 2008, 18, pp. 127-131.
 This article follows the contribution to the general theory of cognitive distortions exposed in “Complements to a theory of cognitive distorsions” (Journal de Thérapie Comportementale et Cognitive, 2007). The elements described, namely the reference class, the duality and the system of taxa, are applied here to generalised anxiety disorder. On the one hand, these elements allow to describe the cognitive distortions which are specific to generalised anxiety disorder, consistent with recent work emphasising the role played uncertain situations relative to future events. On the second hand, they allow to define a type of structured reasoning, of inductive nature, which leads to the formation and maintenance of anxious ideas.
 <p></p>
 <hr>
 <p></p>
-Complements to a Theory of Cognitive Distortions
+
+# Complements to a Theory of Cognitive Distortions
+
+<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
 
 English preprint of a paper published in French under the title “Compléments pour une théorie des distorsions cognitives”, in the Journal de Thérapie Comportementale et Cognitive, 2007, 17-2, pp. 84-88.
 
@@ -61,7 +85,10 @@ The purpose of this study is to describe a conceptual framework for cognitive di
 <p></p>
 <hr>
 <p></p>
-For a Typology of Auditory Verbal Hallucinations Based on their Content
+
+# For a Typology of Auditory Verbal Hallucinations Based on their Content
+
+<img align="right" width="35%" src="/content/assets/images/couv-createspace.jpg">
 
 A paper published in Activitas nervosa Superior (2020), 62, pages 104–109.
 
