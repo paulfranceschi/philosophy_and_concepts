@@ -1,5 +1,5 @@
 ---
-title: "books"
+title: "Books"
 ---
 
 # An Introduction to Analytic Philosophy
