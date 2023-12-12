@@ -54,3 +54,8 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
     url = "/en_francais/"
     weight = 9
    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
