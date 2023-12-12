@@ -11,7 +11,7 @@ Schizophrenia is often associated with other physical and mental problems. Gener
 
 A paper published in the Journal for Neurocognitive Research,  Vol.  2013, 55, No. 1-2.
 
-This article aims to contribute to cognitive therapy of polythematic delusions by proposing a preliminary step to the implementation of traditional cognitive therapy, based on the construction of alternative hypotheses to delusions and testing of the latter. This additional step resides in the construction in the patient of the necessary skills to use the general experimentalist method of knowledge acquisition. Such an approach is based on the contrast between the logico-theoretical and the experimentalist turn of mind. Some elements such as to allow any such construction in the patient are then described and analyzed. [pdf]()
+This article aims to contribute to cognitive therapy of polythematic delusions by proposing a preliminary step to the implementation of traditional cognitive therapy, based on the construction of alternative hypotheses to delusions and testing of the latter. This additional step resides in the construction in the patient of the necessary skills to use the general experimentalist method of knowledge acquisition. Such an approach is based on the contrast between the logico-theoretical and the experimentalist turn of mind. Some elements such as to allow any such construction in the patient are then described and analyzed. [pdf](https://link.springer.com/article/10.1007/BF03379597)
 <p></p>
 <hr>
 <p></p>
