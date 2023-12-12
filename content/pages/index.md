@@ -17,7 +17,7 @@ My work involves some fields that are apparently very different. However, most t
 <p></p>
 <hr>
 <p></p>
-<img align="left" width="25%" src="/content/assets/images/couv-createspace.jpg">
+<img align="left" width="15%" src="/content/assets/images/couv-createspace.jpg">
 
 In this book, Paul Franceschi provides us with an introduction to analytic philosophy. In a concrete way, he chooses to describe forty paradoxes, arguments or philosophical issues that represent so many challenges for contemporary philosophy and human intelligence, for some paradoxes of millennial origin—such as the Liar or the sorites paradox—are still unresolved in the present day. Some other philosophical puzzles, however—such as the Doomsday argument—appeared only recently in the literature. The author strives to introduce us clearly to each of these problems as well as to major attempts that have been formulated to solve them.
 
