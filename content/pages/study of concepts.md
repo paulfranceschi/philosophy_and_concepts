@@ -1,3 +1,7 @@
+---
+title: "study_of_concepts"
+---
+
 # On a Class of Concepts
 
 <img align="right" width="50%" src="/content/assets/images/matrix of concepts instance.jpg">
