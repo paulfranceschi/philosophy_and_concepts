@@ -22,7 +22,7 @@ This article aims to contribute to cognitive therapy of polythematic delusions b
 
 A paper published in the Journal for Neurocognitive Research,  Vol. 53, No 1-2 (2011).
 
-In this paper, we describe several factors that can contribute, from the patient’s viewpoint, to the plausibility of psychotic hallucinations. We sketch then a Plausibility of Hallucinations Scale, consisting of a 50-item questionnaire, which aims at evaluating the degree of plausibility of hallucinations. We also emphasize the utility of pointing out to the patient the several factors that contribute to the plausibility of his/her hallucinations, in the context of cognitive therapy for schizophrenia. [pdf]()
+In this paper, we describe several factors that can contribute, from the patient’s viewpoint, to the plausibility of psychotic hallucinations. We sketch then a Plausibility of Hallucinations Scale, consisting of a 50-item questionnaire, which aims at evaluating the degree of plausibility of hallucinations. We also emphasize the utility of pointing out to the patient the several factors that contribute to the plausibility of his/her hallucinations, in the context of cognitive therapy for schizophrenia. [pdf](https://link.springer.com/article/10.1007/BF03379932)
 <p></p>
 <hr>
 <p></p>
