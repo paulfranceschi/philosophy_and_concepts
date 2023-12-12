@@ -1,3 +1,7 @@
+---
+title: "ontology"
+---
+
 # A Brief Introduction to N-universes
 
 <img align="right" width="30%" src="/content/assets/images/n4RRRR800x400.jpg">
