@@ -11,7 +11,7 @@ This article describes the construction, of philosophical essence, of the class
 
 # The Problem of the Relationships of Love-Hate-Indifference
 
-<img align="right" width="50%" src="/content/assets/images/matrix of concepts.jpg">
+<img align="right" width="30%" src="/content/assets/images/matrix of concepts.jpg">
 
 English translation of a paper published in French in Semiotica, vol. 150(1-4), 2004 under the title “Le problème des relations amour-haine-indifférence”.
 
