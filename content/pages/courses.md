@@ -1,3 +1,7 @@
+---
+title: "courses"
+---
+
 # How to Make a Dialectical Plan
 
 <img align="right" width="60%" src="/content/assets/images/presentation-en.jpg">
