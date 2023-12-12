@@ -47,7 +47,7 @@ In the classical version of Goodman’s paradox, the universe where the problem 
 
 English translation of a paper appeared in French in Philosophiques 2005, vol. 32, pages 399-421 (with minor changes with regard to the published version).
 
-This paper proposes a new framework to solve the surprise examination paradox. I survey preliminary the main contributions to the literature related to the paradox. I introduce then a distinction between a monist and a dichotomic analysis of the paradox. With the help of a matrix notation, I also present a dichotomy that leads to distinguish two basically and structurally different notions of surprise, which are respectively based on a conjoint and a disjoint structure. I describe then how Quine’s solution and Hall’s reduction apply to the version of the paradox corresponding to the conjoint structure. Lastly, I expose a solution to the version of the paradox based on the disjoint structure. [pdf]()
+This paper proposes a new framework to solve the surprise examination paradox. I survey preliminary the main contributions to the literature related to the paradox. I introduce then a distinction between a monist and a dichotomic analysis of the paradox. With the help of a matrix notation, I also present a dichotomy that leads to distinguish two basically and structurally different notions of surprise, which are respectively based on a conjoint and a disjoint structure. I describe then how Quine’s solution and Hall’s reduction apply to the version of the paradox corresponding to the conjoint structure. Lastly, I expose a solution to the version of the paradox based on the disjoint structure. [pdf](/content/assets/pdf/sep-en.pdf)
 <p></p>
 <hr>
 <p></p>
