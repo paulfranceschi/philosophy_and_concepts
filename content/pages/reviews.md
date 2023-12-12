@@ -1,5 +1,5 @@
 ---
-title: "reviews"
+title: "Reviews"
 ---
 
 # Post-publication of a review of John Leslie, Infinite Minds
