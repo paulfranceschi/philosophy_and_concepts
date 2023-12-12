@@ -36,7 +36,7 @@ In this paper, I present a solution to the Doomsday argument based on a third ty
 <img align="right" width="30%" src="/content/assets/images/grue640x480.jpg">
 
 English Posprint (with additional illustrations) of a paper published in French in Dialogue Vol. 40, Winter 2001, pp. 99-123 under the title “Une Solution pour le Paradoxe de Goodman”.
-In the classical version of Goodman’s paradox, the universe where the problem takes place is ambiguous. The conditions of induction being accurately described, I define then a framework of n-universes, allowing the distinction, among the criteria of a given n-universe, between constants and variables. Within this framework, I distinguish between two versions of the problem, respectively taking place: (i) in an n-universe the variables of which are colour and time; (ii) in an n-universe the variables of which are colour, time and space. Finally, I show that each of these versions admits a specific resolution. [pdf]()
+In the classical version of Goodman’s paradox, the universe where the problem takes place is ambiguous. The conditions of induction being accurately described, I define then a framework of n-universes, allowing the distinction, among the criteria of a given n-universe, between constants and variables. Within this framework, I distinguish between two versions of the problem, respectively taking place: (i) in an n-universe the variables of which are colour and time; (ii) in an n-universe the variables of which are colour, time and space. Finally, I show that each of these versions admits a specific resolution. [pdf](/content/assets/pdf/gp-en.pdf)
 <p></p>
 <hr>
 <p></p>
