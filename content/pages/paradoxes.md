@@ -1,3 +1,7 @@
+---
+title: "paradoxes"
+---
+
 # A Two-Sided Ontological Solution to the Sleeping Beauty Problem
 
 <img align="right" width="30%" src="/content/assets/images/Sleeping_Beauty.jpg">
