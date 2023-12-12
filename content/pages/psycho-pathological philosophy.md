@@ -1,5 +1,5 @@
 ---
-title: "psycho_pathological_philosophy"
+title: "Psycho-pathological philosophy"
 ---
 
 # Differential Cognitive Treatment of Polythematic Delusions and Generalised Anxiety Disorder
