@@ -1,5 +1,5 @@
 ---
-title: "paradoxes"
+title: "Paradoxes"
 ---
 
 # A Two-Sided Ontological Solution to the Sleeping Beauty Problem
