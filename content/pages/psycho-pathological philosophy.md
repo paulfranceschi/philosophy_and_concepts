@@ -1,3 +1,7 @@
+---
+title: "psycho_pathological_philosophy"
+---
+
 # Differential Cognitive Treatment of Polythematic Delusions and Generalised Anxiety Disorder
 
 English translation of a paper published in french under the title “Traitement cognitif différentiel des délires polythématiques et du trouble anxieux généralisé“, in the Journal de Thérapie Comportementale et Cognitive, 2011, vol. 21-4, pp. 121-125.
