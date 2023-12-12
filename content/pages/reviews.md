@@ -1,6 +1,6 @@
 # Post-publication of a review of John Leslie, Infinite Minds
 
-<img align="right" width="25%" src="/content/assets/images/cover_infinite_minds.jpg">
+<img align="right" width="35%" src="/content/assets/images/cover_infinite_minds.jpg">
 
 Post-publication of the [review](https://www.erudit.org/fr/revues/philoso/2003-v30-n2-philoso739/008655ar/) appeared in [Philosophiques](https://www.erudit.org/fr/revues/philoso/), Volume 30, number 2, Autumn 2003.
 
