@@ -80,7 +80,7 @@ ABSTRACT. I present in this paper an analysis of the Simulation Argument from a 
 
 An article published in French in the Canadian Journal of Philosophy Volume 28, July1998, pages 227-46.
 
-This article presents a solution for the Doomsday Argument (DA). First, I show that there is no objective criterion for choosing a reference class in general: in that case, the calculation inherent in DA cannot take place. Secondly, I consider the particular choice of a given reference class, as Leslie recommends. But the arbitrary nature of selection makes it legitimate to make multiple choices, either by extension or by restriction: DA can then be established in particular for the genus Homo, for the species Homo sapiens, for the subspecies Homo sapiens sapiens, … , for a narrowly defined class corresponding to humans who have not known computers, and so on. Finally, it appears that DA 'works', but its conclusion is harmless. [pdf]()
+This article presents a solution for the Doomsday Argument (DA). First, I show that there is no objective criterion for choosing a reference class in general: in that case, the calculation inherent in DA cannot take place. Secondly, I consider the particular choice of a given reference class, as Leslie recommends. But the arbitrary nature of selection makes it legitimate to make multiple choices, either by extension or by restriction: DA can then be established in particular for the genus Homo, for the species Homo sapiens, for the subspecies Homo sapiens sapiens, … , for a narrowly defined class corresponding to humans who have not known computers, and so on. Finally, it appears that DA 'works', but its conclusion is harmless. [JSTOR](https://www.jstor.org/stable/40232017)
 <p></p>
 <hr>
 <p></p>
