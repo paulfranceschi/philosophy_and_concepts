@@ -13,7 +13,7 @@ This account supersides my previous preprints on this topic. Please do no cite p
 
 # Elements of Dialectical Contextualism
 
-Posprint in English (with additional illustrations) of  an article appeared in French in the collective book (pages 581-608) written on the occasion of the 60th birthday of Pascal Engel.
+Posprint in English of  an article appeared in French in the collective book (pages 581-608) written on the occasion of the 60th birthday of Pascal Engel.
 
 Abstract In what follows, I strive to present the elements of a philosophical doctrine, which can be defined as dialectical contextualism. I proceed first to define the elements of this doctrine: dualities and polar contraries, the principle of dialectical indifference and the one-sidedness bias. I emphasize then the special importance of this doctrine in one specific field of meta-philosophy: the methodology for solving philosophical paradoxes. Finally, I describe several applications of this methodology on the following paradoxes: Hempel’s paradox, the surprise examination paradox and the Doomsday Argument. [pdf](/content/assets/pdf/cxd-en.pdf)
 <p></p>
