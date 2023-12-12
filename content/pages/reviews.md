@@ -1,3 +1,7 @@
+---
+title: "reviews"
+---
+
 # Post-publication of a review of John Leslie, Infinite Minds
 
 <img align="right" width="35%" src="/content/assets/images/cover_infinite_minds.jpg">
