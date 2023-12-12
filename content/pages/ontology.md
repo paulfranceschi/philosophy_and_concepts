@@ -1,5 +1,5 @@
 ---
-title: "ontology"
+title: "Ontology"
 ---
 
 # A Brief Introduction to N-universes
