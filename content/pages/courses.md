@@ -1,5 +1,5 @@
 ---
-title: "courses"
+title: "Courses"
 ---
 
 # How to Make a Dialectical Plan
