@@ -2,7 +2,7 @@
 
 <img align="right" width="35%" src="/content/assets/images/cover_infinite_minds.jpg">
 
-Post-publication of the [review](https://www.erudit.org/fr/revues/philoso/2003-v30-n2-philoso739/008655ar/) appeared in [Philosophiques](https://www.erudit.org/fr/revues/philoso/), Volume 30, number 2, Autumn 2003.
+Post-publication of the [review](https://www.erudit.org/fr/revues/philoso/2003-v30-n2-philoso739/008655ar/) appeared in [Philosophiques](https://www.erudit.org/fr/revues/philoso/), Volume 30, number 2, Autumn 2003.<A CLASS="sdfootnoteanc" NAME="sdfootnote1anc" HREF="#sdfootnote1sym"><SUP>1</SUP></A>
 
 Review of John Leslie, Infinite Minds, Oxford, Oxford University Press, 2001, 234 p.1
 
@@ -32,4 +32,9 @@ Lastly, Leslie develops the point of view according to which God exists by ethic
 
 Leslie's book also constitutes the courageous expression of a viewpoint. For such pantheist conception does not constitute a widespread opinion within contemporary analytical philosophy. Moreover, Leslie's variety of pantheism also constitutes a variation of panpsychism. But the attitude of the author appears eminently constructive, because it constrains us to consider more attentively some doctrines than we would tend to reject too easily. One will or not adhere to the pantheist and panpsychist theory exposed in Infinite Minds. But for the majority of readers for whom we can suppose that they will not adhere to the variation of panpsychism thus described, Leslie's work constitutes nevertheless an admirable and highly original synthesis, showing how an astonishing construction can be elaborated around the pantheist model, while bringing answers to many contemporary philosophical problems. The work will provide new arguments to the defenders of panpsychism. But Infinite Minds will be also prove to be essential to the detractors of panpsychism, who will find there a particularly strong and structured defense.
 
-This review only differs from the version published in Philosophiques with regard to the status of abstract objects. I thank John Leslie for very useful discussion on this topic.
+<DIV ID="sdfootnote1">
+	<P LANG="en-GB" CLASS="sdfootnote-western"><A CLASS="sdfootnotesym" NAME="sdfootnote1sym" HREF="#sdfootnote1anc">1</A>This
+	review only differs from the version published in <I>Philosophiques</I>
+	with regard to the status of abstract objects. I thank John Leslie
+	for very useful discussion on this topic.</P>
+</DIV>
