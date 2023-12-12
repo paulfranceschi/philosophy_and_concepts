@@ -1,3 +1,7 @@
+---
+title: "books"
+---
+
 # An Introduction to Analytic Philosophy
 <img align="right" width="20%" src="/content/assets/images/couv-createspace.jpg">
 
