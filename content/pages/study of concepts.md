@@ -4,7 +4,7 @@
 
 Posprint in English (with additional illustrations) of a paper published in French in Semiotica, vol. 139 (1-4), 2002, 211-226, under the title “Une Classe de Concepts”.
 
-This article describes the construction, of philosophical essence, of the class of the matrices of concepts, whose structure and properties present an interest in several fields. The paper emphasises the applications in the field of paradigmatic analysis of the resulting taxonomy and proposes it as an alternative to the semiotic square put forth by Greimas.
+This article describes the construction, of philosophical essence, of the class of the matrices of concepts, whose structure and properties present an interest in several fields. The paper emphasises the applications in the field of paradigmatic analysis of the resulting taxonomy and proposes it as an alternative to the semiotic square put forth by Greimas. [pdf]()
 <p></p>
 <hr>
 <p></p>
