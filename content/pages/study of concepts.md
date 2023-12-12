@@ -1,5 +1,5 @@
 ---
-title: "study_of_concepts"
+title: "Study of concepts"
 ---
 
 # On a Class of Concepts
