@@ -61,7 +61,49 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
     pageRef = "/content/pages/en_francais.md"
     url = "/en_francais/"
     weight = 9
-   
+
+  [[menu.fr]]
+    identifier = "home_fr"
+    name = "Accueil"
+    url = "/fr/"
+    weight = 1
+  [[menu.fr]]
+    identifier = "paradoxes_fr"
+    name = "Paradoxes"
+    pageRef = "/content/pages/fr/paradoxes.md"
+    url = "/fr/paradoxes/"
+    weight = 2
+  [[menu.fr]]
+    identifier = "study_of_concepts_fr"
+    name = "Study of concepts"
+    pageRef = "/content/pages/fr/study_of_concepts.md"
+    url = "/fr/study_of_concepts/"
+    weight = 3
+  [[menu.fr]]
+    identifier = "psycho_pathological_philosophy_fr"
+    name = "Psycho-pathological philosophy"
+    pageRef = "/content/pages/fr/psycho_pathological_philosophy.md"
+    url = "/fr/psycho_pathological_philosophy/"
+    weight = 4
+  [[menu.fr]]
+    identifier = "books_fr"
+    name = "Books"
+    pageRef = "/content/pages/fr/books.md"
+    url = "/fr/books/"
+    weight = 6  
+  [[menu.fr]]
+    identifier = "courses_fr"
+    name = "Courses"
+    pageRef = "/content/pages/fr/courses.md"
+    url = "/fr/courses/"
+    weight = 7
+   [[menu.fr]]
+    identifier = "in_english_fr"
+    name = "In english"
+    pageRef = "/content/pages/fr/in_english.md"
+    url = "/fr/in_english/"
+    weight = 9
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
