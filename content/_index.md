@@ -6,7 +6,7 @@ draft: false
 
 This site presents my work in philosophy. It contains published articles and preprints. The texts relate to analytic philosophy, ontology, the study of concepts, cognition and psycho-pathological philosophy.
 
-<img align="right" width="25%" src="/content/assets/images/photo1.jpg">
+<img align="right" width="25%" src="/images/photo1.jpg">
 My work is primarily concerned with analytic philosophy and consists of proposed solutions to some philosophical paradoxes : the Doomsday argument, Hempel's paradox, Goodman 's paradox, the surprise examination paradox, the Sleeping Beauty problem, the Black-Leslie paradox of the spheres, the Simulation argument, etc.. A conceptual tool, the n-universes, which are useful for the study of philosophical problems is also presented.
 
 An important area of interest is the study of reasoning in the field of psychopathology. Several texts also relate to cognition and cognitive distortions. Additions to the classical theory of cognitive distortions are exposed, and their applications in the field of psycho-pathological philosophy: a new conceptual framework for cognitive distortions, a specific account of personalization, and of over-generalization and labelling.
@@ -17,7 +17,7 @@ My work involves some fields that are apparently very different. However, most t
 <p></p>
 <hr>
 <p></p>
-<img align="left" width="25%" src="/content/assets/images/couv-createspace.jpg">
+<img align="left" width="25%" src="/images/couv-createspace.jpg">
 
 In this [book](https://www.amazon.com/Introduction-Analytic-Philosophy-Paradoxes-Contemporary/dp/1482739836), Paul Franceschi provides us with an introduction to analytic philosophy. In a concrete way, he chooses to describe forty paradoxes, arguments or philosophical issues that represent so many challenges for contemporary philosophy and human intelligence, for some paradoxes of millennial origin—such as the Liar or the sorites paradox—are still unresolved in the present day. Some other philosophical puzzles, however—such as the Doomsday argument—appeared only recently in the literature. The author strives to introduce us clearly to each of these problems as well as to major attempts that have been formulated to solve them.
 
@@ -27,7 +27,7 @@ Julien Dutant, Philotropes, Philosophical blog
 <p></p>
 <hr>
 <p></p>
-<img align="right" width="40%" src="/content/assets/images/presentation-en.jpg">
+<img align="right" width="40%" src="/images/presentation-en.jpg">
 
 My [course](https://www.udemy.com/course/how-to-make-a-dialectical-plan/learn/lecture/32122478#overview) duration: 3h20 entitled “How to make a dialectical plan” is online on Udemy. The course is a pedagogical and practical version of the notions contained in my articles On a Class of Concepts and The Dialectical Plan: For an Alternative to the Paradigm, published in the journal Semiotica. It is a step-by-step method, with exercises, to learn how to make a dialectical plan, using matrices of concepts.
 
