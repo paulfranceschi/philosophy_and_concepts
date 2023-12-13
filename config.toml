@@ -16,6 +16,7 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
   [[menu.main]]
     identifier = "paradoxes"
     name = "Paradoxes"
+    pageRef = "/content/pages/paradoxes.md"
     url = "/paradoxes/"
     weight = 2
   [[menu.main]]
