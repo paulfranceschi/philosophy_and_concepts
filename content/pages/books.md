@@ -15,7 +15,7 @@ Julien Dutant, Philotropes, Philosophical blog
 <p></p>
 
 # A Primer on Matrix Dialectic Plan
-<img align="left" width="20%" src="/static/images/cover-amazon.jpg">
+<img align="left" width="20%" src="/images/cover-amazon.jpg">
 
 The [book](https://www.amazon.com/Primer-Matrix-Dialectic-Plan-ebook/dp/B087D7L4BS) “A Primer on Matrix Dialectic Plan” aims to present in a simple, progressive and illustrated way a methodology created by the author that allows to easily realize a matrix dialectic plan. It is a practical tool that constitutes the direct application of concepts of philosophical essence. Once the principles have been assimilated, it takes only a few seconds to create a dialectical matrix plan, which has a number of advantages over the classic thesis-antithesis-synthesis type dialectical plan.The elaboration of a matrix dialectical plan proves useful in the academic field, for the writing of a dissertation or an assignment in philosophy; in the extracurricular field, for the writing of the test of general subject matter of competitive examinations; and more generally, for the writing of dissertations, theses, reports, reviews, etc. The matrix dialectical plan applies to questions or subjects of the type :
 
