@@ -22,36 +22,43 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
   [[menu.main]]
     identifier = "study_of_concepts"
     name = "Study of concepts"
+    pageRef = "/content/pages/study_of_concepts.md"
     url = "/study_of_concepts/"
     weight = 3
   [[menu.main]]
     identifier = "psycho_pathological_philosophy"
     name = "Psycho-pathological philosophy"
+    pageRef = "/content/pages/psycho_pathological_philosophy.md"
     url = "/psycho_pathological_philosophy/"
     weight = 4
   [[menu.main]]
     identifier = "ontology"
     name = "Ontology"
+    pageRef = "/content/pages/ontology.md"
     url = "/ontology/"
     weight = 5
   [[menu.main]]
     identifier = "books"
     name = "Books"
+    pageRef = "/content/pages/books.md"
     url = "/books/"
     weight = 6  
   [[menu.main]]
     identifier = "courses"
     name = "Courses"
+    pageRef = "/content/pages/courses.md"
     url = "/courses/"
     weight = 7
   [[menu.main]]
     identifier = "reviews"
     name = "Reviews"
+    pageRef = "/content/pages/reviews.md"
     url = "/reviews/"
     weight = 8  
    [[menu.main]]
     identifier = "en_francais"
     name = "En français"
+    pageRef = "/content/pages/en_francais.md"
     url = "/en_francais/"
     weight = 9
    
