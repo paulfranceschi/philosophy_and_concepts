@@ -4,7 +4,7 @@ title: "Paradoxes"
 
 # A Two-Sided Ontological Solution to the Sleeping Beauty Problem
 
-<img align="right" width="30%" src="/static/images/Sleeping_Beauty.jpg">
+<img align="right" width="30%" src="/images/Sleeping_Beauty.jpg">
 
 Preprint published on the PhilSci archive.
 
@@ -26,7 +26,7 @@ Abstract In what follows, I strive to present the elements of a philosophical do
 
 # A Third Route to the Doomsday Argument
 
-<img align="right" width="30%" src="/static/images/da640x480.jpg">
+<img align="right" width="30%" src="/images/da640x480.jpg">
 
 A paper published (2009) in English in the Journal of Philosophical Research, vol. 34, pages 263-278 (with significant changes with regard to the preprint).
 
@@ -37,7 +37,7 @@ In this paper, I present a solution to the Doomsday argument based on a third ty
 
 # A Solution to Goodman’s Paradox
 
-<img align="right" width="30%" src="/static/images/grue640x480.jpg">
+<img align="right" width="30%" src="/images/grue640x480.jpg">
 
 English Posprint (with additional illustrations) of a paper published in French in Dialogue Vol. 40, Winter 2001, pp. 99-123 under the title “Une Solution pour le Paradoxe de Goodman”.
 In the classical version of Goodman’s paradox, the universe where the problem takes place is ambiguous. The conditions of induction being accurately described, I define then a framework of n-universes, allowing the distinction, among the criteria of a given n-universe, between constants and variables. Within this framework, I distinguish between two versions of the problem, respectively taking place: (i) in an n-universe the variables of which are colour and time; (ii) in an n-universe the variables of which are colour, time and space. Finally, I show that each of these versions admits a specific resolution. [pdf](/content/assets/pdf/gp-en.pdf)
@@ -47,7 +47,7 @@ In the classical version of Goodman’s paradox, the universe where the problem 
 
 # A Dichotomic Analysis of the Surprise Examination Paradox
 
-<img align="right" width="30%" src="/static/images/sep.jpg">
+<img align="right" width="30%" src="/images/sep.jpg">
 
 English translation of a paper appeared in French in Philosophiques 2005, vol. 32, pages 399-421 (with minor changes with regard to the published version).
 
@@ -58,7 +58,7 @@ This paper proposes a new framework to solve the surprise examination paradox. I
 
 #  Probabilistic Situations for Goodmanian N-universes
 
-<img align="right" width="30%" src="/static/images/n4RRRR800x400.jpg">
+<img align="right" width="30%" src="/images/n4RRRR800x400.jpg">
 
 A paper appeared (2006) in French in the Journal of Philosophical Research, vol. 31, pages 123-141, under the title “Situations probabilistes pour n-univers goodmaniens.”
 
@@ -69,7 +69,7 @@ I proceed to describe several applications of the theory of n-universes through 
 
 # The Simulation Argument and the Reference Class Problem : a Dialectical Contextualism Analysis
 
-<img align="right" width="30%" src="/static/images/simarg.jpg">
+<img align="right" width="30%" src="/images/simarg.jpg">
 
 English postprint of a paper initially published in French in Philosophiques, 2016, 43-2, pp. 371-389, under the title L’argument de la Simulation et le problème de la classe de référence : le point de vue du contextualisme dialectique
 
@@ -80,7 +80,7 @@ ABSTRACT. I present in this paper an analysis of the Simulation Argument from a 
 
 # A Solution to the Doomsday Argument
 
-<img align="right" width="30%" src="/static/images/da640x480.jpg">
+<img align="right" width="30%" src="/images/da640x480.jpg">
 
 An article published in French in the Canadian Journal of Philosophy Volume 28, July1998, pages 227-46.
 
@@ -91,7 +91,7 @@ This article presents a solution for the Doomsday Argument (DA). First, I show t
 
 # The Doomsday Argument and Hempel’s Problem
 
-<img align="right" width="30%" src="/static/images/corvus_corax.jpg">
+<img align="right" width="30%" src="/images/corvus_corax.jpg">
 
 Posprint in English (with additional illustrations from wikimedia commons) of a paper published in French in the Canadian Journal of Philosophy Vol.29, July 1999, pp. 139-56 under the title “Comment l’Urne de Carter et Leslie se Déverse dans celle de Hempel”.
 I begin by describing a solution to Hempel’s Problem. I recall, second, the solution to the Doomsday Argument described in my previous Une Solution pour l’Argument de l’Apocalypse (Canadian Journal of Philosophy 1998-2) and remark that both solutions are based on a similar line of reasoning. I show thirdly that the Doomsday Argument can be reduced to the core of Hempel’s Problem. [pdf](/content/assets/pdf/hp-en.pdf)
