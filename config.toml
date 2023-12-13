@@ -6,6 +6,11 @@ theme = "PaperMod"
 author = "Paul Franceschi"
 copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
 
+[theme]
+  defaultTheme = "dark"
+  themeSwitch  = true
+  enableScrollButton = true
+
 [menu]
 
   [[menu.main]]
