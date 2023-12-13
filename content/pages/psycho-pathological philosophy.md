@@ -22,7 +22,7 @@ This article aims to contribute to cognitive therapy of polythematic delusions b
 
 # On the Plausibility of Psychotic Hallucinations
 
-<img align="right" width="20%" src="/content/assets/images/Edvard Munch 1893 The_Scream.jpg">
+<img align="right" width="20%" src="/static/images/Edvard Munch 1893 The_Scream.jpg">
 
 A paper published in the Journal for Neurocognitive Research,  Vol. 53, No 1-2 (2011).
 
@@ -61,7 +61,7 @@ In a previous paper (Complements to a theory of cognitive distorsions, Journal 
 
 # Theory of Cognitive Distortions: Application to Generalised Anxiety Disorder
 
-<img align="right" width="35%" src="/content/assets/images/640px-Panic-attack.jpg">
+<img align="right" width="35%" src="/static/images/640px-Panic-attack.jpg">
 
 English translation and postprint (with additional illustrations) of a paper published in French under the title “Théorie des distorsions cognitives : application à l’anxiété généralisée” in the Journal de Thérapie Comportementale et Cognitive, 2008, 18, pp. 127-131.
 This article follows the contribution to the general theory of cognitive distortions exposed in “Complements to a theory of cognitive distorsions” (Journal de Thérapie Comportementale et Cognitive, 2007). The elements described, namely the reference class, the duality and the system of taxa, are applied here to generalised anxiety disorder. On the one hand, these elements allow to describe the cognitive distortions which are specific to generalised anxiety disorder, consistent with recent work emphasising the role played uncertain situations relative to future events. On the second hand, they allow to define a type of structured reasoning, of inductive nature, which leads to the formation and maintenance of anxious ideas. [pdf](https://web-archive.southampton.ac.uk/cogprints.org/7175/index.html)
