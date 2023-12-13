@@ -65,43 +65,43 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
   [[menu.fr]]
     identifier = "home_fr"
     name = "Accueil"
-    url = "/fr/"
+    url = "/home_fr/"
     weight = 1
   [[menu.fr]]
     identifier = "paradoxes_fr"
     name = "Paradoxes"
-    pageRef = "/content/pages/fr/paradoxes.md"
-    url = "/fr/paradoxes/"
+    pageRef = "/content/pages/paradoxes_fr.md"
+    url = "/paradoxes_fr/"
     weight = 2
   [[menu.fr]]
     identifier = "study_of_concepts_fr"
     name = "Study of concepts"
-    pageRef = "/content/pages/fr/study_of_concepts.md"
-    url = "/fr/study_of_concepts/"
+    pageRef = "/content/pages/study_of_concepts_fr.md"
+    url = "/study_of_concepts_fr/"
     weight = 3
   [[menu.fr]]
     identifier = "psycho_pathological_philosophy_fr"
     name = "Psycho-pathological philosophy"
-    pageRef = "/content/pages/fr/psycho_pathological_philosophy.md"
-    url = "/fr/psycho_pathological_philosophy/"
+    pageRef = "/content/pages/psycho_pathological_philosophy_fr.md"
+    url = "/psycho_pathological_philosophy_fr/"
     weight = 4
   [[menu.fr]]
     identifier = "books_fr"
     name = "Books"
-    pageRef = "/content/pages/fr/books.md"
-    url = "/fr/books/"
+    pageRef = "/content/pages/books_fr.md"
+    url = "/books_fr/"
     weight = 6  
   [[menu.fr]]
     identifier = "courses_fr"
     name = "Courses"
-    pageRef = "/content/pages/fr/courses.md"
-    url = "/fr/courses/"
+    pageRef = "/content/pages/courses_fr.md"
+    url = "/courses_fr/"
     weight = 7
    [[menu.fr]]
     identifier = "in_english_fr"
     name = "In english"
-    pageRef = "/content/pages/fr/in_english.md"
-    url = "/fr/in_english/"
+    pageRef = "/content/pages/in_english_fr.md"
+    url = "/in_english_fr/"
     weight = 9
 
 [markup]
