@@ -3,7 +3,7 @@ title: "Books"
 ---
 
 # An Introduction to Analytic Philosophy
-<img align="right" width="20%" src="/static/images/couv-createspace.jpg">
+<img align="right" width="20%" src="/images/couv-createspace.jpg">
 
 In this [book](https://www.amazon.com/Introduction-Analytic-Philosophy-Paradoxes-Contemporary/dp/1482739836), Paul Franceschi provides us with an introduction to analytic philosophy. In a concrete way, he chooses to describe forty paradoxes, arguments or philosophical issues that represent so many challenges for contemporary philosophy and human intelligence, for some paradoxes of millennial origin—such as the Liar or the sorites paradox—are still unresolved in the present day. Some other philosophical puzzles, however—such as the Doomsday argument—appeared only recently in the literature. The author strives to introduce us clearly to each of these problems as well as to major attempts that have been formulated to solve them.
 
