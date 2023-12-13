@@ -4,7 +4,7 @@ title: "Courses"
 
 # How to Make a Dialectical Plan
 
-<img align="right" width="60%" src="/content/assets/images/presentation-en.jpg">
+<img align="right" width="60%" src="/images/presentation-en.jpg">
 
 My course (duration: 3h20) entitled “[How to make a dialectical plan](https://www.udemy.com/course/how-to-make-a-dialectical-plan/learn/lecture/32122464#overview)” is online on Udemy.
 
