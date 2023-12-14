@@ -65,6 +65,7 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
   [[menu.fr]]
     identifier = "accueil_fr"
     name = "Accueil"
+    pageRef = "/content/pages/accueil_fr.md"
     url = "/accueil_fr/"
     weight = 1
   [[menu.fr]]
