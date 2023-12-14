@@ -4,7 +4,7 @@ title: "Study of concepts"
 
 # On a Class of Concepts
 
-<img align="right" width="50%" src="/images/matrix of concepts instance.jpg" style="margin-left: 20px;">
+<img align="right" width="50%" src="/images/matrix_of_concepts_instance.jpg" style="margin-left: 20px;">
 
 Posprint in English (with additional illustrations) of a paper published in French in Semiotica, vol. 139 (1-4), 2002, 211-226, under the title “Une Classe de Concepts”.
 
@@ -15,7 +15,7 @@ This article describes the construction, of philosophical essence, of the class
 
 # The Problem of the Relationships of Love-Hate-Indifference
 
-<img align="right" width="30%" src="/images/matrix of concepts.jpg" style="margin-left: 20px;">
+<img align="right" width="30%" src="/images/matrix_of_concepts.jpg" style="margin-left: 20px;">
 
 English translation of a paper published in French in Semiotica, vol. 150(1-4), 2004 under the title “Le problème des relations amour-haine-indifférence”.
 
