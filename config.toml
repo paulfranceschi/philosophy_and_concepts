@@ -63,9 +63,9 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
     weight = 9
 
   [[menu.fr]]
-    identifier = "home_fr"
+    identifier = "accueil_fr"
     name = "Accueil"
-    url = "/home_fr/"
+    url = "/accueil_fr/"
     weight = 1
   [[menu.fr]]
     identifier = "paradoxes_fr"
