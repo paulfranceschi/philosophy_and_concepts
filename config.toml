@@ -6,105 +6,108 @@ theme = "PaperMod"
 author = "Paul Franceschi"
 copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
 
-[menu]
+[languages]
+  [languages.en]
+    languageName = "English"
+    [[languages.en.menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "paradoxes"
+      name = "Paradoxes"
+      pageRef = "/content/pages/paradoxes.md"
+      url = "/paradoxes/"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "study_of_concepts"
+      name = "Study of concepts"
+      pageRef = "/content/pages/study_of_concepts.md"
+      url = "/study_of_concepts/"
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "psycho_pathological_philosophy"
+      name = "Psycho-pathological philosophy"
+      pageRef = "/content/pages/psycho-pathological_philosophy.md"
+      url = "/psycho_pathological_philosophy/"
+      weight = 4
+    [[languages.en.menu.main]]
+      identifier = "ontology"
+      name = "Ontology"
+      pageRef = "/content/pages/ontology.md"
+      url = "/ontology/"
+      weight = 5
+    [[languages.en.menu.main]]
+      identifier = "books"
+      name = "Books"
+      pageRef = "/content/pages/books.md"
+      url = "/books/"
+      weight = 6  
+    [[languages.en.menu.main]]
+      identifier = "courses"
+      name = "Courses"
+      pageRef = "/content/pages/courses.md"
+      url = "/courses/"
+      weight = 7
+    [[languages.en.menu.main]]
+      identifier = "reviews"
+      name = "Reviews"
+      pageRef = "/content/pages/reviews.md"
+      url = "/reviews/"
+      weight = 8  
+    [[languages.en.menu.main]]
+      identifier = "en_francais"
+      name = "En français"
+      pageRef = "/content/pages/accueil_fr.md"
+      url = "/accueil_fr/"
+      weight = 9
 
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "paradoxes"
-    name = "Paradoxes"
-    pageRef = "/content/pages/paradoxes.md"
-    url = "/paradoxes/"
-    weight = 2
-  [[menu.main]]
-    identifier = "study_of_concepts"
-    name = "Study of concepts"
-    pageRef = "/content/pages/study_of_concepts.md"
-    url = "/study_of_concepts/"
+  [languages.fr]
+    languageName = "Français"
+    [[languages.fr.menu.main]]
+      identifier = "accueil_fr"
+      name = "Accueil"
+      pageRef = "/content/pages/accueil_fr.md"
+      url = "/accueil_fr/"
+      weight = 1
+    [[languages.fr.menu.main]]
+      identifier = "paradoxes_fr"
+      name = "Paradoxes"
+      pageRef = "/content/pages/paradoxes_fr.md"
+      url = "/paradoxes_fr/"
+      weight = 2
+    [[languages.fr.menu.fr]]
+      identifier = "study_of_concepts_fr"
+      name = "Study of concepts"
+      pageRef = "/content/pages/study_of_concepts_fr.md"
+      url = "/study_of_concepts_fr/"
     weight = 3
-  [[menu.main]]
-    identifier = "psycho_pathological_philosophy"
-    name = "Psycho-pathological philosophy"
-    pageRef = "/content/pages/psycho-pathological_philosophy.md"
-    url = "/psycho_pathological_philosophy/"
-    weight = 4
-  [[menu.main]]
-    identifier = "ontology"
-    name = "Ontology"
-    pageRef = "/content/pages/ontology.md"
-    url = "/ontology/"
-    weight = 5
-  [[menu.main]]
-    identifier = "books"
-    name = "Books"
-    pageRef = "/content/pages/books.md"
-    url = "/books/"
-    weight = 6  
-  [[menu.main]]
-    identifier = "courses"
-    name = "Courses"
-    pageRef = "/content/pages/courses.md"
-    url = "/courses/"
-    weight = 7
-  [[menu.main]]
-    identifier = "reviews"
-    name = "Reviews"
-    pageRef = "/content/pages/reviews.md"
-    url = "/reviews/"
-    weight = 8  
-   [[menu.main]]
-    identifier = "en_francais"
-    name = "En français"
-    pageRef = "/content/pages/accueil_fr.md"
-    url = "/accueil_fr/"
-    weight = 9
-
-  [[menu.fr]]
-    identifier = "accueil_fr"
-    name = "Accueil"
-    pageRef = "/content/pages/accueil_fr.md"
-    url = "/accueil_fr/"
-    weight = 1
-  [[menu.fr]]
-    identifier = "paradoxes_fr"
-    name = "Paradoxes"
-    pageRef = "/content/pages/paradoxes_fr.md"
-    url = "/paradoxes_fr/"
-    weight = 2
-  [[menu.fr]]
-    identifier = "study_of_concepts_fr"
-    name = "Study of concepts"
-    pageRef = "/content/pages/study_of_concepts_fr.md"
-    url = "/study_of_concepts_fr/"
-    weight = 3
-  [[menu.fr]]
-    identifier = "psycho_pathological_philosophy_fr"
-    name = "Psycho-pathological philosophy"
-    pageRef = "/content/pages/psycho_pathological_philosophy_fr.md"
-    url = "/psycho_pathological_philosophy_fr/"
-    weight = 4
-  [[menu.fr]]
-    identifier = "books_fr"
-    name = "Books"
-    pageRef = "/content/pages/books_fr.md"
-    url = "/books_fr/"
-    weight = 6  
-  [[menu.fr]]
-    identifier = "courses_fr"
-    name = "Courses"
-    pageRef = "/content/pages/courses_fr.md"
-    url = "/courses_fr/"
-    weight = 7
-   [[menu.fr]]
-    identifier = "in_english_fr"
-    name = "In english"
-    pageRef = "/content/pages/in_english_fr.md"
-    url = "/in_english_fr/"
-    weight = 9
-
+    [[languages.fr.menu.fr]]
+      identifier = "psycho_pathological_philosophy_fr"
+      name = "Psycho-pathological philosophy"
+      pageRef = "/content/pages/psycho_pathological_philosophy_fr.md"
+      url = "/psycho_pathological_philosophy_fr/"
+      weight = 4
+    [[languages.fr.menu.fr]]
+      identifier = "books_fr"
+      name = "Books"
+      pageRef = "/content/pages/books_fr.md"
+      url = "/books_fr/"
+      weight = 6  
+    [[languages.fr.menu.fr]]
+      identifier = "courses_fr"
+      name = "Courses"
+      pageRef = "/content/pages/courses_fr.md"
+      url = "/courses_fr/"
+      weight = 7
+    [[languages.fr.menu.fr]]
+      identifier = "in_english_fr"
+      name = "In english"
+      pageRef = "/content/pages/in_english_fr.md"
+      url = "/in_english_fr/"
+      weight = 9
+      
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
