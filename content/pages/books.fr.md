@@ -14,6 +14,7 @@ Dans cet ouvrage (3ème édition), Paul Franceschi nous livre une introduction �
 <p></p>
 
 # L’ABC du plan dialectique matriciel
+<img align="right" width="20%" src="/images/cover_pdm.jpg" style="margin-left: 20px;">
 
 L’ouvrage « ABC du plan dialectique matriciel » a pour but de présenter de manière simple, progressive et illustrée une méthode créée par l’auteur qui permet de réaliser aisémentun plan dialectique matriciel. Il s’agit d’un outil à vocation pratique qui constitue l’application directe de concepts d’essence philosophique. Lorsqu’on en a assimilé les principes, quelques secondes suffisent pour réaliser un plan dialectique matriciel. Ce dernier présente un certain nombre d’avantages par rapport au plan dialectique classique du type thèse-antithèse-synthèse.
 
