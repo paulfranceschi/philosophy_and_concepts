@@ -28,7 +28,7 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
   [[menu.main]]
     identifier = "psycho_pathological_philosophy"
     name = "Psycho-pathological philosophy"
-    pageRef = "/content/pages/psycho_pathological_philosophy.md"
+    pageRef = "/content/pages/psycho-pathological_philosophy.md"
     url = "/psycho_pathological_philosophy/"
     weight = 4
   [[menu.main]]
@@ -58,8 +58,8 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
    [[menu.main]]
     identifier = "en_francais"
     name = "En français"
-    pageRef = "/content/pages/en_francais.md"
-    url = "/en_francais/"
+    pageRef = "/content/pages/accueil_fr.md"
+    url = "/accueil_fr/"
     weight = 9
 
   [[menu.fr]]
