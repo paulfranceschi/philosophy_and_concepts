@@ -1,3 +1,7 @@
+---
+title: "Paradoxes"
+---
+
 # L’argument de la Simulation et le problème de la classe de référence
 
 <img align="right" width="30%" src="/images/simarg.jpg" style="margin-left: 20px;">
