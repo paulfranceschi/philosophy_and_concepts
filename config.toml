@@ -64,7 +64,7 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
       identifier = "accueil_fr"
       name = "Accueil"
       pageRef = "/content/pages/accueil_fr.md"
-      url = "/accueil_fr/"
+      url = "/"
       weight = 1
     [[languages.fr.menu.main]]
       identifier = "paradoxes_fr"
