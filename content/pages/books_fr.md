@@ -4,6 +4,9 @@ Introduction à la philosophie analytique: Paradoxes, arguments et problèmes co
 Dans cet ouvrage (3ème édition), Paul Franceschi nous livre une introduction à la philosophie analytique. De manière concrète, il choisit de décrire quarante paradoxes, arguments ou problèmes philosophiques, qui constituent autant de défis pour la philosophie contemporaine et l’intelligence humaine. Car certains paradoxes d’origine millénaire – tels que le Menteur ou le paradoxe sorite – ne sont toujours pas résolus à l’époque actuelle. D’autres énigmes philosophiques en revanche – telles que l’argument de l’Apocalypse – ne sont apparues que très récemment dans la littérature. L’auteur s’attache à nous présenter clairement chacun de ces problèmes ainsi que les principales tentatives qui ont été formulées pour les résoudre.
 
 “Un réjouissant concentré de casse-têtes: j’adore ce livre ! (…) Je suis vraiment impressionné par ce livre trés soigné et stimulant. Je le recommande chaudement, tant aux étudiants pour la pédagogie et la culture générale (dilemme du prisonnier, Terre-jumelle, etc.), qu’aux pros pour l’outil de référence, et même plus généralement à ceux qui aiment réfléchir.” Julien Dutant, Blog philosophique.
+<p></p>
+<hr>
+<p></p>
 
 L’ABC du plan dialectique matriciel
 
