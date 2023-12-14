@@ -1,6 +1,5 @@
 ---
 title: "Cours"
-menu: "fr"
 ---
 
 Ce site présente mes travaux en philosophie. Il contient des articles publiés et des pré-publications. Les textes concernent la philosophie analytique, l’étude des concepts, la cognition et la philosophie psycho-pathologique.
