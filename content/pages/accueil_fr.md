@@ -25,7 +25,7 @@ Dans cet ouvrage, Paul Franceschi nous livre une introduction à la philosophie 
 <hr>
 <p></p>
 
-<img align="right" width="30%" src="/images/presentation-plandial-fr.jpg" style="margin-left: 20px;">
+<img align="right" width="40%" src="/images/presentation-plandial-fr.jpg" style="margin-left: 20px;">
 
 Mon cours (durée : 4h08) intitulé “Réaliser un plan dialectique pour un sujet d’ordre général” (à partir de ce lien, vous bénéficiez d’une réduction importante) est en ligne sur Udemy.
 
