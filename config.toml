@@ -77,31 +77,31 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
       pageRef = "/content/pages/paradoxes_fr.md"
       url = "/paradoxes_fr/"
       weight = 2
-    [[languages.fr.menu.fr]]
+    [[languages.fr.menu.main]]
       identifier = "study_of_concepts_fr"
       name = "Study of concepts"
       pageRef = "/content/pages/study_of_concepts_fr.md"
       url = "/study_of_concepts_fr/"
     weight = 3
-    [[languages.fr.menu.fr]]
+    [[languages.fr.menu.main]]
       identifier = "psycho_pathological_philosophy_fr"
       name = "Psycho-pathological philosophy"
       pageRef = "/content/pages/psycho_pathological_philosophy_fr.md"
       url = "/psycho_pathological_philosophy_fr/"
       weight = 4
-    [[languages.fr.menu.fr]]
+    [[languages.fr.menu.main]]
       identifier = "books_fr"
       name = "Books"
       pageRef = "/content/pages/books_fr.md"
       url = "/books_fr/"
       weight = 6  
-    [[languages.fr.menu.fr]]
+    [[languages.fr.menu.main]]
       identifier = "courses_fr"
       name = "Courses"
       pageRef = "/content/pages/courses_fr.md"
       url = "/courses_fr/"
       weight = 7
-    [[languages.fr.menu.fr]]
+    [[languages.fr.menu.main]]
       identifier = "in_english_fr"
       name = "In english"
       pageRef = "/content/pages/in_english_fr.md"
