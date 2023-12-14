@@ -75,25 +75,25 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
     [[languages.fr.menu.main]]
       identifier = "study_of_concepts_fr"
       name = "Étude de concepts"
-      pageRef = "/content/pages/study_of_concepts_fr.md"
+      pageRef = "/content/pages/study_of_concepts.fr.md"
       url = "/study_of_concepts_fr/"
     weight = 3
     [[languages.fr.menu.main]]
       identifier = "psycho_pathological_philosophy_fr"
       name = "Philosophie psycho-pathologique"
-      pageRef = "/content/pages/psycho_pathological_philosophy_fr.md"
+      pageRef = "/content/pages/psycho_pathological_philosophy.fr.md"
       url = "/psycho_pathological_philosophy_fr/"
       weight = 4
     [[languages.fr.menu.main]]
       identifier = "books_fr"
       name = "Livres"
-      pageRef = "/content/pages/books_fr.md"
+      pageRef = "/content/pages/books.fr.md"
       url = "/books_fr/"
       weight = 6  
     [[languages.fr.menu.main]]
       identifier = "courses_fr"
       name = "Cours"
-      pageRef = "/content/pages/courses_fr.md"
+      pageRef = "/content/pages/courses.fr.md"
       url = "/courses_fr/"
       weight = 7
 
