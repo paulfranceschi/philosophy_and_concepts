@@ -11,7 +11,7 @@ Pré-publication. Dans ‘Une Classe de Concepts’ (Semiotica, 2002), j’ai pr
 # Analyse paradigmatique d’un corpus de proverbes à l’aide des matrices de concepts
 Un article paru dans Semiotica (2007), volume 167, pages 271-282.
 
-Dans Franceschi (2002), j’ai présenté une théorie basée sur les matrices de concepts qui se propose de constituer une alternative à la classification proposée par Greimas, dans le domaine de l’analyse paradigmatique. Je m’attache ici à appliquer les matrices de concepts à l’analyse d’un corpus constitué de proverbes corses. Je rappelle tout d’abord brièvement le modèle des matrices de concepts. Je décris également la structure des thèses proverbiales, avant de présenter les résultats de l’analyse correspondante.
+Dans Franceschi (2002), j’ai présenté une théorie basée sur les matrices de concepts qui se propose de constituer une alternative à la classification proposée par Greimas, dans le domaine de l’analyse paradigmatique. Je m’attache ici à appliquer les matrices de concepts à l’analyse d’un corpus constitué de proverbes corses. Je rappelle tout d’abord brièvement le modèle des matrices de concepts. Je décris également la structure des thèses proverbiales, avant de présenter les résultats de l’analyse correspondante. [pdf](https://web-archive.southampton.ac.uk/cogprints.org/7166/1/amp.pdf)
 <p></p>
 <hr>
 <p></p>
