@@ -17,6 +17,9 @@ Dans Franceschi (2002), j’ai présenté une théorie basée sur les matrices d
 <p></p>
 
 # Une classe de concepts
+
+<img align="right" width="50%" src="/images/matrix_of_concepts_instance.jpg" style="margin-left: 20px;">
+
 Post-publication d’un article initialement paru dans Semiotica (2002), volume 139 (1-4), pages 211-226.
 
 Le plan dialectique: pour une alternative au paradigme
