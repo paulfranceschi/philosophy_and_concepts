@@ -61,7 +61,7 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
   [languages.fr]
     languageName = "Français"
     [[languages.fr.menu.main]]
-      identifier = "accueil_fr"
+      identifier = "home.fr"
       name = "Accueil"
       pageRef = "/content/_index.fr.md"
       url = "/"
