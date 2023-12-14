@@ -1,4 +1,8 @@
-Réaliser un plan dialectique pour un sujet d’ordre général
+---
+title: "Cours"
+---
+
+# Réaliser un plan dialectique pour un sujet d’ordre général
 Mon cours (durée : 4h08) intitulé “Réaliser un plan dialectique pour un sujet d’ordre général” (à partir de ce lien, vous bénéficiez d’une réduction importante) est en ligne sur Udemy.
 
 
