@@ -56,12 +56,7 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
       pageRef = "/content/pages/reviews.md"
       url = "/reviews/"
       weight = 8  
-    [[languages.en.menu.main]]
-      identifier = "en_francais"
-      name = "En français"
-      pageRef = "/content/pages/accueil_fr.md"
-      url = "/accueil_fr/"
-      weight = 9
+
 
   [languages.fr]
     languageName = "Français"
@@ -79,7 +74,7 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
       weight = 2
     [[languages.fr.menu.main]]
       identifier = "study_of_concepts_fr"
-      name = "Study of concepts"
+      name = "Etude de concepts"
       pageRef = "/content/pages/study_of_concepts_fr.md"
       url = "/study_of_concepts_fr/"
     weight = 3
@@ -101,12 +96,7 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
       pageRef = "/content/pages/courses_fr.md"
       url = "/courses_fr/"
       weight = 7
-    [[languages.fr.menu.main]]
-      identifier = "in_english_fr"
-      name = "In english"
-      pageRef = "/content/pages/in_english_fr.md"
-      url = "/in_english_fr/"
-      weight = 9
+
       
 [markup]
   [markup.goldmark]
