@@ -63,7 +63,7 @@ copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
     [[languages.fr.menu.main]]
       identifier = "accueil_fr"
       name = "Accueil"
-      pageRef = "/content/pages/accueil_fr.md"
+      pageRef = "/content/_index.fr.md"
       url = "/"
       weight = 1
     [[languages.fr.menu.main]]
