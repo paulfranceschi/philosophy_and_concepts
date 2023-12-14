@@ -11,6 +11,7 @@ Enfin, certains textes concernent l’étude des concepts. Ils sont basés sur u
 Les travaux présentés impliquent des champs apparemment très différents. Cependant, tous les textes s’appuient sur une doctrine philosophique particulière, que l’on peut définir comme un “contextualisme dialectique”. Et cette doctrine a des applications dans la philosophie analytique, l’étude des concepts et la philosophie psycho-pathologique. Son rôle comme outil méthodologique visant à résoudre des paradoxes philosophiques est expliqué en détail dans mes “Eléments du contextualisme dialectique“.
 
 
+<img align="right" width="25%" src="/images/cover-intro-phi3-fr.jpg" style="margin-left: 20px;">
 
 3ème édition, avec de nouvelles illustrations
 Nouveau: il s’agit de la 3ème édition, avec des illustrations nouvelles. De plus, autant que possible, chaque exemplaire du livre broché ou relié est unique, en ce sens qu’une ou plusieurs illustrations sont changées à chaque nouvelle édition, indiquée par son numéro # (par exemple #2). Il s’agit d’une technique de personnalisation qui est permise par la méthode moderne d’impression à la demande et qui en constitue une caractéristique exclusive.
@@ -19,8 +20,8 @@ Dans cet ouvrage, Paul Franceschi nous livre une introduction à la philosophie 
 
 “Un réjouissant concentré de casse-têtes: j’adore ce livre ! (…) Je suis vraiment impressionné par ce livre trés soigné et stimulant. Je le recommande chaudement, tant aux étudiants pour la pédagogie et la culture générale (dilemme du prisonnier, Terre-jumelle, etc.), qu’aux pros pour l’outil de référence, et même plus généralement à ceux qui aiment réfléchir.” Julien Dutant, Philotropes, blog philosophique.
 
+<img align="right" width="30%" src="/images/presentation-plandial-fr.jpg" style="margin-left: 20px;">
 
 Mon cours (durée : 4h08) intitulé “Réaliser un plan dialectique pour un sujet d’ordre général” (à partir de ce lien, vous bénéficiez d’une réduction importante) est en ligne sur Udemy.
-
 
 Le cours est une version à visée pédagogique et pratique, qui expose les notions contenues dans mes articles Une classe de concepts et Le plan dialectique : pour une alternative au paradigme, publiés dans la revue Semiotica.
