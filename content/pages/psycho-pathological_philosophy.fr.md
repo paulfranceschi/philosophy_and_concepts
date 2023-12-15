@@ -3,6 +3,9 @@ title: "Philosophie psycho-pathologique"
 ---
 
 # Compléments pour une théorie des distorsions cognitives
+
+<img align="right" width="30%" src="/images/Fig1cdis.jpg" style="margin-left: 20px;">
+
 Un article paru dans le Journal de Thérapie Comportementale et Cognitive, 2007, 17-2, pages 1-6.
 
 
