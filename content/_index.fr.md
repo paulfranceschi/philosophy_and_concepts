@@ -14,7 +14,7 @@ Les travaux présentés impliquent des champs apparemment très différents. Cep
 <hr>
 <p></p>
 
-<img align="leftt" width="35%" src="/images/cover-intro-phi3-fr.jpg" style="margin-right: 20px;">
+<img align="left" width="35%" src="/images/cover-intro-phi3-fr.jpg" style="margin-right: 20px;">
 
 3ème édition, avec de nouvelles illustrations
 Il s’agit de la 3ème édition, avec des illustrations nouvelles. De plus, autant que possible, chaque exemplaire du livre broché ou relié est unique, en ce sens qu’une ou plusieurs illustrations sont changées à chaque nouvelle édition, indiquée par son numéro # (par exemple #2). Il s’agit d’une technique de personnalisation qui est permise par la méthode moderne d’impression à la demande et qui en constitue une caractéristique exclusive.
