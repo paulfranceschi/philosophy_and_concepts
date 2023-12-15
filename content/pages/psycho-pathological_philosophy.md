@@ -71,6 +71,8 @@ This article follows the contribution to the general theory of cognitive distort
 
 # Complements to a Theory of Cognitive Distortions
 
+<img align="right" width="30%" src="/images/Fig1cdis.jpg" style="margin-left: 20px;">
+
 English preprint of a paper published in French under the title “Compléments pour une théorie des distorsions cognitives”, in the Journal de Thérapie Comportementale et Cognitive, 2007, 17-2, pp. 84-88.
 
 The purpose of this study is to describe a conceptual framework for cognitive distortions, which notably allows to specify more accurately their intrinsic relationships. This conceptual framework aims at inserting itself within the apparatus of cognitive therapy and of critical thinking. The present analysis is based on the following fundamental concepts: the reference class, the duality and the system of taxa. With the help of these three notions, each cognitive distortion can be defined. A distinction is also made between, on the one hand, general cognitive distortions and on the other hand, specific cognitive distortions. The present model allows then to define within the same conceptual framework the general cognitive distortions such as dichotomous reasoning, disqualifying a given pole, minimisation and maximisation. It also allows to describe as specific cognitive distortions: disqualifying the positive, selective abstraction and catastrophism. Furthermore, the present model predicts the existence of two other general cognitive distortions: the omission of the neutral and requalifying in the other pole. [pdf](/pdf/Fig1.pdf)
