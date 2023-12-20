@@ -5,6 +5,7 @@ title = 'Paul Franceschi: Philosophy & Concepts'
 theme = "PaperMod"
 author = "Paul Franceschi"
 copyright = "Copyright © 2019-2023 Paul Franceschi paul.franceschi@yahoo.fr All rights reserved."
+enableRobotsTXT = true
 
 [params]
   [params.contact]
