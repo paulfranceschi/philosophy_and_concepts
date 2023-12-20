@@ -6,6 +6,10 @@ theme = "PaperMod"
 author = "Paul Franceschi"
 copyright = "Copyright © 2019-2023, Paul Franceschi; all rights reserved."
 
+[params]
+  [params.contact]
+    email = 'paul.franceschi@yahoo.fr'
+
 [languages]
   [languages.en]
     languageName = "English"
