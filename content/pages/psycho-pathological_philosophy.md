@@ -76,6 +76,31 @@ This article follows the contribution to the general theory of cognitive distort
 English preprint of a paper published in French under the title “Compléments pour une théorie des distorsions cognitives”, in the Journal de Thérapie Comportementale et Cognitive, 2007, 17-2, pp. 84-88.
 
 The purpose of this study is to describe a conceptual framework for cognitive distortions, which notably allows to specify more accurately their intrinsic relationships. This conceptual framework aims at inserting itself within the apparatus of cognitive therapy and of critical thinking. The present analysis is based on the following fundamental concepts: the reference class, the duality and the system of taxa. With the help of these three notions, each cognitive distortion can be defined. A distinction is also made between, on the one hand, general cognitive distortions and on the other hand, specific cognitive distortions. The present model allows then to define within the same conceptual framework the general cognitive distortions such as dichotomous reasoning, disqualifying a given pole, minimisation and maximisation. It also allows to describe as specific cognitive distortions: disqualifying the positive, selective abstraction and catastrophism. Furthermore, the present model predicts the existence of two other general cognitive distortions: the omission of the neutral and requalifying in the other pole. [pdf](/pdf/Fig1.pdf)
+
+This article is cited in:
+
+* Maladaptive cognitions and emotion regulation in posttraumatic stress disorder, Ouhmad, N., El-Hage, W., Combalbert, N.	(2023) Neuropsychiatrie
+
+* Development of the Cognitive Distortion Scale for Adults (EDC-A): Study of psychometric properties in the general population and association with anxiety and depression [Création de l’Échelle de Distorsions Cognitives pour adultes (EDC-A) : étude des propriétés psychométriques en population générale et association avec l'anxiété et la dépression], Robert, A., Combalbert, N., Pennequin, V., Deperrois, R., Ouhmad, N. (2023) Psychologie Francaise
+
+* Cognitive distortions, anxiety, and depression in individuals suffering from PTSD, Ouhmad, N., Deperrois, R., El Hage, W., Combalbert, N. (2023) International Journal of Mental Health
+
+* Links between cognitive distortions and cognitive emotion regulation strategies in non-clinical young adulthood, Deperrois, R., Combalbert, N. (2022) Cognitive Processing
+
+* For a Typology of Auditory Verbal Hallucinations Based on their Content, Franceschi, P. (2020) Activitas Nervosa Superior
+
+* Study of cognitive distortion profiles on anxiety and depressive states in ordinary people [Étude des profils de distorsion cognitive en fonction des états anxieux et dépressifs chez des adultes tout-venant] Robert, A., Combalbert, N., Pennequin, V. (2018) Annales Medico-Psychologiques
+
+* Bipolar disorder, self-stigma and cognitive restructuring: A first attempt to support [Trouble bipolaire, auto-stigmatisation et restructuration cognitive: une première tentative de prise en charge] Richard-Lepouriel, H. (2017) Journal de Therapie Comportementale et Cognitive
+
+* The influence of cognitive biases in non-clinical adult's anxiety [L'influence des biais cognitifs sur l'anxiété chez des adultes non cliniques] 
+Pennequin, V., Combalbert, N. (2017) Annales Medico-Psychologiques
+
+* Theory of cognitive distortions: Personalisation [Théorie des distorsions cognitives: La personnalisation] Franceschi, P. (2010) Journal de Therapie Comportementale et Cognitive
+
+* Theory of cognitive distortions: Over-generalisation and mislabeling [Théorie des distorsions cognitives : la sur- généralisation et l'étiquetage] Franceschi, P. (2009) Journal de Therapie Comportementale et Cognitive
+
+* Theory of cognitive distortions: Application to generalised anxiety disorder [Théorie des distorsions cognitives: Application à l'anxiété généralisée] Franceschi, P. (2008) Journal de Therapie Comportementale et Cognitive
 <p></p>
 <hr>
 <p></p>
