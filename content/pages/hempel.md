@@ -11,7 +11,7 @@ These statements are logically equivalent because the structure of (H) ("All X a
 # Four categories
 In the context of Hempel's Problem, four categories of objects are defined based on two properties:
 
-* X: stands for "raven."
+* X: stands for "ravens"
 * Y: represents the property of being "black."
 * non-X: This is the complement of class X. It includes everything that does not fall into class X, i.e. non-ravens.
 * non-Y: Similarly, this class is the complement of class Y. It includes everything that is not black, which includes objects of all other colors.
@@ -19,12 +19,12 @@ In the context of Hempel's Problem, four categories of objects are defined based
 # The reference class problem
 In the context of Hempel's Problem, the "reference class problem" arises when defining the class of non-X objects (e.g., non-ravens). This problem is centered on determining the appropriate scope or boundaries of the reference class, denoted as Z, which includes both X and non-X objects. The key issues in this problem are:
 
-* Arbitrariness in Defining Z: The reference class Z can be defined in various ways, ranging from very broad (including all conceivable objects, both concrete and abstract) to very narrow (including a limited set of objects). This variability leads to arbitrariness in defining what constitutes a non-X object.
+* Arbitrariness in defining Z: The reference class Z can be defined in various ways, ranging from very broad (including all conceivable objects, both concrete and abstract objects such as numbers) to very narrow (including a limited set of objects, such as birds). This variability leads to arbitrariness in defining what constitutes a non-X object.
 
-* Impact on Logical Equivalence: The choice of Z directly affects the logical equivalence of statements like "All X are Y" and "All non-Y are non-X." Depending on how Z is defined, the confirmation of these statements can vary significantly.
+* Impact on logical equivalence: The choice of Z directly affects the logical equivalence of statements like "All X are Y" and "All non-Y are non-X." Depending on how Z is defined, the confirmation of these statements can vary significantly.
 
-* Subjectivity in Confirmation: Because the definition of Z can be arbitrary, the confirmation of a hypothesis based on observations becomes subjective. For instance, observing a non-black non-raven (like a red apple) might confirm the statement "All ravens are black" if Z is defined broadly, but this confirmation loses its objective grounding due to the arbitrary nature of Z.
-* 
+* Subjectivity in confirmation: Because the definition of Z can be arbitrary, the confirmation of a hypothesis based on observations becomes subjective. For instance, observing a non-black non-raven (like a red apple) might confirm the statement "All ravens are black" if Z is defined broadly, but this confirmation loses its objective grounding due to the arbitrary nature of Z.
+
 # Unparadoxical Case of the Finite Urn
 In this scenario, the equivalence between propositions (H) and (H') is maintained.
 Franceschi uses the example of an urn containing a finite, known number of objects (like balls and tetrahedrons of different colors) to illustrate this case.
