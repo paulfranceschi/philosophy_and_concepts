@@ -1,6 +1,6 @@
 This is an extended summary of my paper, "The Doomsday Argument and Hempel's Problem", that delves into the logical intricacies of Hempel's Problem (HP) and its implications in various contexts, notably distinguishing between two cases: the unparadoxical case of a finite urn and the paradoxical case where the reference class is unspecified.
 
-<img align="right" width="60%" src="/images/raven-and-flmaingo.jpg" style="margin-left: 20px;">
+<img align="right" width="50%" src="/images/raven-and-flmaingo.jpg" style="margin-left: 20px;">
 
 # Hempel's problem
 Hempel's Problem revolves around the logical equivalence of two statements:
