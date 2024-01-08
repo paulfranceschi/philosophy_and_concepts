@@ -2,7 +2,7 @@ This is an extended summary of my paper, "The Doomsday Argument and Hempel's Pro
 
 <img align="right" width="50%" src="/images/raven-and-flamingo.jpg" style="margin-left: 20px;">
 
-# Hempel''s problem
+# Hempel's problem
 Hempel's Problem revolves around the logical equivalence of two statements:
 
 (H) All ravens are black.
@@ -41,4 +41,4 @@ This arbitrariness in defining Z undermines the objective validity of any Bayesi
 
 The paper argues that in cases where Z is not predetermined by an objective criterion, any conclusions drawn are not objectively valuable, contrasting with the finite urn scenario where Z is predefined and objective.
 
-In summary, Franceschi's paper highlights the stark contrast in the logical behavior of Hempel's Problem depending on the context: in a finite, well-defined scenario, the equivalence of (H) and (H') holds true and can be objectively confirmed through Bayesian reasoning. However, in cases where the reference class is unspecified and subject to arbitrary definition, this equivalence breaks down, rendering any conclusions drawn from such a setup subjective and unreliable.
+In summary, the paper highlights the stark contrast in the logical behavior of Hempel's Problem depending on the context: in a finite, well-defined scenario, the equivalence of (H) and (H') holds true and can be objectively confirmed through Bayesian reasoning. However, in cases where the reference class is unspecified and subject to arbitrary definition, this equivalence breaks down, rendering any conclusions drawn from such a setup subjective and unreliable.
