@@ -19,6 +19,15 @@ X~Y: Objects that possess property X but not Y. For example, non-black ravens. T
 
 ~X ~Y: Objects that possess neither property X nor Y. For example, non-black non-ravens. These are instances where the object is neither a raven nor black.
 
+# The reference class problem
+In the context of Hempel's Problem, the "reference class problem" arises when defining the class of non-X objects (e.g., non-ravens). This problem is centered on determining the appropriate scope or boundaries of the reference class, denoted as Z, which includes both X and non-X objects. The key issues in this problem are:
+
+* Arbitrariness in Defining Z: The reference class Z can be defined in various ways, ranging from very broad (including all conceivable objects, both concrete and abstract) to very narrow (including a limited set of objects). This variability leads to arbitrariness in defining what constitutes a non-X object.
+
+* Impact on Logical Equivalence: The choice of Z directly affects the logical equivalence of statements like "All X are Y" and "All non-Y are non-X." Depending on how Z is defined, the confirmation of these statements can vary significantly.
+
+* Subjectivity in Confirmation: Because the definition of Z can be arbitrary, the confirmation of a hypothesis based on observations becomes subjective. For instance, observing a non-black non-raven (like a red apple) might confirm the statement "All ravens are black" if Z is defined broadly, but this confirmation loses its objective grounding due to the arbitrary nature of Z.
+* 
 # Unparadoxical Case of the Finite Urn
 In this scenario, the equivalence between propositions (H) and (H') is maintained.
 Franceschi uses the example of an urn containing a finite, known number of objects (like balls and tetrahedrons of different colors) to illustrate this case.
