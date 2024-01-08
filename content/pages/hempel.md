@@ -22,7 +22,7 @@ In the context of Hempel's Problem, four categories of objects are defined based
 # The reference class problem
 In the context of Hempel's Problem, the "reference class problem" arises when defining the class of non-X objects (e.g., non-ravens). This problem is centered on determining the appropriate scope or boundaries of the reference class, denoted as Z, which includes both X and non-X objects. The key issues in this problem are:
 
-* Arbitrariness in defining Z: The reference class Z can be defined in various ways, ranging from very broad (including all conceivable objects, both concrete and abstract objects such as numbers) to very narrow (including a limited set of objects, such as birds). This variability leads to arbitrariness in defining what constitutes a non-X object.
+* Arbitrariness in defining Z: The reference class Z can be defined in various ways, ranging from very broad (including all conceivable objects, both concrete and abstract objects such as numbers) to very narrow (including a limited set of objects, such as birds or even a more limited class: corvids). This variability leads to arbitrariness in defining what constitutes a non-X object.
 
 * Impact on logical equivalence: The choice of Z directly affects the logical equivalence of statements like "All X are Y" and "All non-Y are non-X." Depending on how Z is defined, the confirmation of these statements can vary significantly.
 
