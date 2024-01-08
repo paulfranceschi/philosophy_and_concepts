@@ -30,8 +30,11 @@ In the context of Hempel's Problem, the "reference class problem" arises when de
 
 # Unparadoxical Case of the Finite Urn
 In this scenario, the equivalence between propositions (H) and (H') is maintained. This case is exemplified by an urn containing a finite, known number of objects (like balls and tetrahedrons of different colors) to illustrate this case.
-The propositions (H2) "All balls are red" and (H2') "All non-red objects are non-balls" are equivalent in this context.
-Bayesian reasoning is applied to show that the discovery of a new object (like a red ball or a green tetrahedron) in the urn confirms both (H2) and (H2'), demonstrating the non-paradoxical nature of HP in this finite and well-defined context.
+The propositions:
+* (H2) "All balls are red"
+and
+* (H2') "All non-red objects are non-balls"
+are equivalent in this context. Bayesian reasoning is applied to show that the discovery of a new object (like a red ball or a green tetrahedron) in the urn confirms both (H2) and (H2'), demonstrating the non-paradoxical nature of HP in this finite and well-defined context.
 
 # Paradoxical Case with Unspecified Reference Class
 Here, the equivalence between (H) and (H') does not hold due to the arbitrary nature of the reference class Z.
