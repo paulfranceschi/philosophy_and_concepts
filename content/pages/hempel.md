@@ -7,6 +7,15 @@ The paper, "The Doomsday Argument and Hempel's Problem", delves into the logical
 
 These statements are logically equivalent because the structure of (H) ("All X are Y") is equivalent to the structure of (H'), which is its contrapositive form ("All non-Y are non-X"). This equivalence implies that observing a black raven (an instance of X being Y) confirms (H), and similarly, observing a non-black non-raven (an instance of non-Y being non-X) also confirms (H). However, this leads to a paradoxical conclusion where observing any non-black object that is not a raven (like a pink flamingo or a grey umbrella) would confirm the statement that all ravens are black, which seems counterintuitive. This paradox is the essence of Hempel's Problem.
 
+In the context of Hempel's Problem, four categories of objects are defined based on two properties: X (being a raven) and Y (being black). These categories are:
+
+XY: Objects that possess both properties X and Y: black ravens. These are instances where the object is both a raven and black.
+
+X~Y: Objects that possess property X but not Y. For example, non-black ravens. These are instances where the object is a raven but not black.
+
+~XY: Objects that do not possess property X but possess property Y. For example, black non-ravens. These are instances where the object is not a raven but is black.
+
+XY: Objects that possess neither property X nor Y. For example, non-black non-ravens. These are instances where the object is neither a raven nor black.
 # Unparadoxical Case of the Finite Urn:
 
 In this scenario, the equivalence between propositions (H) and (H') is maintained.
