@@ -17,7 +17,7 @@ X~Y: Objects that possess property X but not Y. For example, non-black ravens. T
 
 ~XY: Objects that do not possess property X but possess property Y. For example, black non-ravens. These are instances where the object is not a raven but is black.
 
-~X~Y: Objects that possess neither property X nor Y. For example, non-black non-ravens. These are instances where the object is neither a raven nor black.
+~X ~Y: Objects that possess neither property X nor Y. For example, non-black non-ravens. These are instances where the object is neither a raven nor black.
 
 # Unparadoxical Case of the Finite Urn:
 
