@@ -2,7 +2,7 @@ This is an extended summary of my paper, "The Doomsday Argument and Hempel's Pro
 
 <img align="right" width="50%" src="/images/raven-and-flmaingo.jpg" style="margin-left: 20px;">
 
-# Hempel's problem
+# Hempel''s problem
 Hempel's Problem revolves around the logical equivalence of two statements:
 
 (H) All ravens are black.
