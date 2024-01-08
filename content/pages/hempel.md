@@ -1,6 +1,7 @@
-The paper, "The Doomsday Argument and Hempel's Problem", delves into the logical intricacies of Hempel's Problem (HP) and its implications in various contexts, notably distinguishing between two cases: the unparadoxical case of a finite urn and the paradoxical case where the reference class is unspecified.
+This is an extended summary of my paper, "The Doomsday Argument and Hempel's Problem", that delves into the logical intricacies of Hempel's Problem (HP) and its implications in various contexts, notably distinguishing between two cases: the unparadoxical case of a finite urn and the paradoxical case where the reference class is unspecified.
 
-# Hempel's problem: Hempel's Problem, as defined by the author, revolves around the logical equivalence of two statements:
+# Hempel's problem
+Hempel's Problem, as defined by the author, revolves around the logical equivalence of two statements:
 
 (H) All ravens are black.
 (H') Everything that is non-black is a non-raven.
