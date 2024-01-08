@@ -13,8 +13,8 @@ In the context of Hempel's Problem, four categories of objects are defined based
 
 * X: stands for "raven."
 * Y: represents the property of being "black."
-* ~X (not-X): This is the complement of class X. It includes everything that does not fall into class X, i.e. non-ravens.
-* ~Y (not-Y): Similarly, this class is the complement of class Y. It includes everything that is not black, which includes objects of all other colors.
+* non-X: This is the complement of class X. It includes everything that does not fall into class X, i.e. non-ravens.
+* non-Y: Similarly, this class is the complement of class Y. It includes everything that is not black, which includes objects of all other colors.
 
 # The reference class problem
 In the context of Hempel's Problem, the "reference class problem" arises when defining the class of non-X objects (e.g., non-ravens). This problem is centered on determining the appropriate scope or boundaries of the reference class, denoted as Z, which includes both X and non-X objects. The key issues in this problem are:
