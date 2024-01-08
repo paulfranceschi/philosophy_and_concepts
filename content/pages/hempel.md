@@ -19,14 +19,14 @@ X~Y: Objects that possess property X but not Y. For example, non-black ravens. T
 
 ~X ~Y: Objects that possess neither property X nor Y. For example, non-black non-ravens. These are instances where the object is neither a raven nor black.
 
-# Unparadoxical Case of the Finite Urn:
-
+# Unparadoxical Case of the Finite Urn
 In this scenario, the equivalence between propositions (H) and (H') is maintained.
 Franceschi uses the example of an urn containing a finite, known number of objects (like balls and tetrahedrons of different colors) to illustrate this case.
 The propositions (H2) "All balls are red" and (H2') "All non-red objects are non-balls" are equivalent in this context.
 Bayesian reasoning is applied to show that the discovery of a new object (like a red ball or a green tetrahedron) in the urn confirms both (H2) and (H2'), demonstrating the non-paradoxical nature of HP in this finite and well-defined context.
 
-# Paradoxical Case with Unspecified Reference Class: Here, the equivalence between (H) and (H') does not hold due to the arbitrary nature of the reference class Z.
+# Paradoxical Case with Unspecified Reference Class
+Here, the equivalence between (H) and (H') does not hold due to the arbitrary nature of the reference class Z.
 The paper discusses how defining the non-X class (e.g., non-ravens) depends on the choice of the reference class Z, which can be arbitrarily broad or narrow.
 Various examples are provided where Z could include vastly different entities, from concrete objects to abstract concepts, leading to arbitrary and artificial conclusions.
 This arbitrariness in defining Z undermines the objective validity of any Bayesian reasoning applied in this context. It shows that for any given object x, one can construct a reference class Z such that x either confirms or does not confirm (H), making the confirmation of (H) subjective and arbitrary.
