@@ -9,15 +9,12 @@ Hempel's Problem revolves around the logical equivalence of two statements:
 These statements are logically equivalent because the structure of (H) ("All X are Y") is equivalent to the structure of (H'), which is its contrapositive form ("All non-Y are non-X"). This equivalence implies that observing a black raven (an instance of X being Y) confirms (H), and similarly, observing a non-black non-raven (an instance of non-Y being non-X) also confirms (H). However, this leads to a paradoxical conclusion where observing any non-black object that is not a raven (like a pink flamingo or a grey umbrella) would confirm the statement that all ravens are black, which seems counterintuitive. This paradox is the essence of Hempel's Problem.
 
 # Four categories
-In the context of Hempel's Problem, four categories of objects are defined based on two properties: X (being a raven) and Y (being black). These categories are:
+In the context of Hempel's Problem, four categories of objects are defined based on two properties:
 
-XY: Objects that possess both properties X and Y: black ravens. These are instances where the object is both a raven and black.
-
-X~Y: Objects that possess property X but not Y. For example, non-black ravens. These are instances where the object is a raven but not black.
-
-~XY: Objects that do not possess property X but possess property Y. For example, black non-ravens. These are instances where the object is not a raven but is black.
-
-~X ~Y: Objects that possess neither property X nor Y. For example, non-black non-ravens. These are instances where the object is neither a raven nor black.
+* X: stands for "raven."
+* Y: represents the property of being "black."
+* ~X (not-X): This is the complement of class X. It includes everything that does not fall into class X, i.e. non-ravens.
+* ~Y (not-Y): Similarly, this class is the complement of class Y. It includes everything that is not black, which includes objects of all other colors.
 
 # The reference class problem
 In the context of Hempel's Problem, the "reference class problem" arises when defining the class of non-X objects (e.g., non-ravens). This problem is centered on determining the appropriate scope or boundaries of the reference class, denoted as Z, which includes both X and non-X objects. The key issues in this problem are:
