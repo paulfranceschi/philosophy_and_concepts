@@ -14,10 +14,10 @@ These statements are logically equivalent because the structure of (H) ("All X a
 # Four categories
 In the context of Hempel's Problem, four categories of objects are defined based on two properties:
 
-* X: stands for "ravens"
-* Y: represents the property of being "black."
-* non-X: This is the complement of class X. It includes everything that does not fall into class X, i.e. non-ravens.
-* non-Y: Similarly, this class is the complement of class Y. It includes everything that is not black, which includes objects of all other colors.
+* X: the "ravens"
+* Y: "black" objects
+* non-X: This is the complement of class X, i.e. non-ravens
+* non-Y: Similarly, this class is the complement of class Y: it includes everything that is not black, which includes objects of all other colors.
 
 # The reference class problem
 In the context of Hempel's Problem, the "reference class problem" arises when defining the class of non-X objects (e.g., non-ravens). This problem is centered on determining the appropriate scope or boundaries of the reference class, denoted as Z, which includes both X and non-X objects. The key issues in this problem are:
