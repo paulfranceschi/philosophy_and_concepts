@@ -29,8 +29,7 @@ In the context of Hempel's Problem, the "reference class problem" arises when de
 * Subjectivity in confirmation: Because the definition of Z can be arbitrary, the confirmation of a hypothesis based on observations becomes subjective. For instance, observing a non-black non-raven (like a red apple) might confirm the statement "All ravens are black" if Z is defined broadly, but this confirmation loses its objective grounding due to the arbitrary nature of Z.
 
 # Unparadoxical Case of the Finite Urn
-In this scenario, the equivalence between propositions (H) and (H') is maintained.
-Franceschi uses the example of an urn containing a finite, known number of objects (like balls and tetrahedrons of different colors) to illustrate this case.
+In this scenario, the equivalence between propositions (H) and (H') is maintained. This case is exemplified by an urn containing a finite, known number of objects (like balls and tetrahedrons of different colors) to illustrate this case.
 The propositions (H2) "All balls are red" and (H2') "All non-red objects are non-balls" are equivalent in this context.
 Bayesian reasoning is applied to show that the discovery of a new object (like a red ball or a green tetrahedron) in the urn confirms both (H2) and (H2'), demonstrating the non-paradoxical nature of HP in this finite and well-defined context.
 
