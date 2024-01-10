@@ -71,7 +71,7 @@ This article follows the contribution to the general theory of cognitive distort
 
 # Complements to a Theory of Cognitive Distortions
 
-<img align="right" width="30%" src="/images/Fig1cdis.jpg" style="margin-left: 20px;">
+<img align="right" width="40%" src="/images/Fig1cdis.jpg" style="margin-left: 20px;">
 
 English preprint of a paper published in French under the title “Compléments pour une théorie des distorsions cognitives”, in the Journal de Thérapie Comportementale et Cognitive, 2007, 17-2, pp. 84-88.
 
