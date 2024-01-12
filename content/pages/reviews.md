@@ -2,7 +2,7 @@
 title: "Reviews"
 ---
 
-# Post-publication of a review of John Leslie, Infinite Minds
+## Post-publication of a review of John Leslie, Infinite Minds
 
 <img align="right" width="30%" src="/images/cover_infinite_minds.jpg" style="margin-left: 20px;">
 
