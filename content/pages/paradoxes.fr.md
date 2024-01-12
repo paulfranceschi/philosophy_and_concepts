@@ -2,7 +2,7 @@
 title: "Paradoxes"
 ---
 
-# L’argument de la Simulation et le problème de la classe de référence
+## L’argument de la Simulation et le problème de la classe de référence
 
 <img align="right" width="30%" src="/images/simarg.jpg" style="margin-left: 20px;">
 
@@ -14,7 +14,7 @@ Je présente dans cet article une analyse de l’argument de la Simulation selon
 <hr>
 <p></p>
 
-# Une troisième voie pour l’argument de l’Apocalypse
+## Une troisième voie pour l’argument de l’Apocalypse
 
 <img align="right" width="30%" src="/images/da640x480.jpg" style="margin-left: 20px;">
 
@@ -26,7 +26,7 @@ Dans ce qui suit, je m’attacherai à présenter une solution au problème pos�
 <hr>
 <p></p>
 
-# Une analyse dichotomique du paradoxe de l’examen-surprise
+## Une analyse dichotomique du paradoxe de l’examen-surprise
 
 <img align="right" width="30%" src="/images/sep.jpg" style="margin-left: 20px;">
 
@@ -37,7 +37,7 @@ Je présenterai dans ce qui suit un cadre conceptuel nouveau, en ce sens qu’il
 <hr>
 <p></p>
 
-# Comment l’Urne de Carter et Leslie se Déverse dans celle de Hempel
+## Comment l’Urne de Carter et Leslie se Déverse dans celle de Hempel
 
 <img align="right" width="30%" src="/images/corvus_corax.jpg" style="margin-left: 20px;">
 
@@ -48,7 +48,7 @@ Dans cet article, je présente tout d’abord une solution au problème de Hempe
 <hr>
 <p></p>
 
-# Une solution pour le paradoxe de Goodman
+## Une solution pour le paradoxe de Goodman
 
 <img align="right" width="30%" src="/images/grue640x480.jpg" style="margin-left: 20px;">
 
@@ -59,6 +59,6 @@ Dans la version classique du paradoxe de Goodman, l’univers où se déroule le
 <hr>
 <p></p>
 
-# Éléments d’un contextualisme dialectique
+## Éléments d’un contextualisme dialectique
 
 Dans ce qui suit, je m’attache à présenter les éléments d’une doctrine philosophique, qui peut être définie comme un contextualisme dialectique. Je m’efforce tout d’abord d’en définir les éléments constitutifs, à travers les dualités et pôles duaux, le principe d’indifférence dialectique et le biais d’uni-polarisation. Je m’attache ensuite à souligner l’intérêt spécifique de cette doctrine au sein d’un domaine particulier de la méta-philosophie : la méthodologie utilisée pour la résolution des paradoxes philosophiques. Je décris enfin des applications de cette dernière à l’analyse des paradoxes suivants : le paradoxe de Hempel, le paradoxe de l’examen-surprise et l’argument de l’Apocalypse.
