@@ -1,8 +1,12 @@
+---
+title: "The Doomsday Argument and Hempel's problem: long summary"
+---
+
 This is an extended summary of my paper, "The Doomsday Argument and Hempel's Problem", that delves into the logical intricacies of Hempel's Problem (HP) and its implications in various contexts, notably distinguishing between two cases: the unparadoxical case of a finite urn and the paradoxical case where the reference class is unspecified.
 
 <img align="right" width="50%" src="/images/raven-and-flamingo.jpg" style="margin-left: 20px;">
 
-# Hempel's problem
+## Hempel's problem
 Hempel's Problem revolves around the logical equivalence of two statements:
 
 (H) All ravens are black
@@ -11,7 +15,7 @@ Hempel's Problem revolves around the logical equivalence of two statements:
 
 These statements are logically equivalent because the structure of (H) ("All X are Y") is equivalent to the structure of (H'), which is its contrapositive form ("All non-Y are non-X"). This equivalence implies that observing a black raven (an instance of X being Y) confirms (H), and similarly, observing a non-black non-raven (an instance of non-Y being non-X) also confirms (H). However, this leads to a paradoxical conclusion where observing any non-black object that is not a raven (like a pink flamingo or a grey umbrella) would confirm the statement that all ravens are black, which seems counterintuitive. This paradox is the essence of Hempel's Problem.
 
-# Four categories
+## Four categories
 In the context of Hempel's Problem, four categories of objects are defined based on two properties:
 
 * X: the "ravens"
@@ -19,7 +23,7 @@ In the context of Hempel's Problem, four categories of objects are defined based
 * non-X: This is the complement of class X, i.e. non-ravens
 * non-Y: Similarly, this class is the complement of class Y: it includes everything that is not black, which includes objects of all other colors.
 
-# The reference class problem
+## The reference class problem
 In the context of Hempel's Problem, the "reference class problem" arises when defining the class of non-X objects (e.g., non-ravens). This problem is centered on determining the appropriate scope or boundaries of the reference class, denoted as Z, which includes both X and non-X objects. The key issues in this problem are:
 
 * Arbitrariness in defining Z: The reference class Z can be defined in various ways, ranging from very broad (including all conceivable objects, both concrete and abstract objects such as numbers) to very narrow (including a limited set of objects, such as birds or even a more limited class: corvids). This variability leads to arbitrariness in defining what constitutes a non-X object.
@@ -28,7 +32,7 @@ In the context of Hempel's Problem, the "reference class problem" arises when de
 
 * Subjectivity in confirmation: Because the definition of Z can be arbitrary, the confirmation of a hypothesis based on observations becomes subjective. For instance, observing a non-black non-raven (like a red apple) might confirm the statement "All ravens are black" if Z is defined broadly, but this confirmation loses its objective grounding due to the arbitrary nature of Z.
 
-# Unparadoxical Case of the Finite Urn
+## Unparadoxical Case of the Finite Urn
 In this scenario, the equivalence between propositions (H) and (H') is maintained. This case is exemplified by an urn containing a finite, known number of objects (like balls and tetrahedrons of different colors) to illustrate this case.
 The propositions:
 * (H2) "All balls are red"
@@ -36,7 +40,7 @@ and
 * (H2') "All non-red objects are non-balls"
 are equivalent in this context. Bayesian reasoning is applied to show that the discovery of a new object (like a red ball or a green tetrahedron) in the urn confirms both (H2) and (H2'), demonstrating the non-paradoxical nature of HP in this finite and well-defined context.
 
-# Paradoxical Case with Unspecified Reference Class
+## Paradoxical Case with Unspecified Reference Class
 Here, the equivalence between (H) and (H') does not hold due to the arbitrary nature of the reference class Z.
 The paper discusses how defining the non-X class (e.g., non-ravens) depends on the choice of the reference class Z, which can be arbitrarily broad or narrow.
 Various examples are provided where Z could include vastly different entities, from concrete objects to abstract concepts, leading to arbitrary and artificial conclusions.
