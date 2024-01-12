@@ -2,7 +2,7 @@
 title: "Study of concepts"
 ---
 
-# On a Class of Concepts
+## On a Class of Concepts
 
 <img align="right" width="50%" src="/images/matrix_of_concepts_instance.jpg" style="margin-left: 20px;">
 
@@ -13,7 +13,7 @@ This article describes the construction, of philosophical essence, of the class
 <hr>
 <p></p>
 
-# The Problem of the Relationships of Love-Hate-Indifference
+## The Problem of the Relationships of Love-Hate-Indifference
 
 <img align="right" width="30%" src="/images/matrix_of_concepts.jpg" style="margin-left: 20px;">
 
@@ -24,7 +24,7 @@ In On a class of concepts (2002), I described a theory based on the matrices o
 <hr>
 <p></p>
 
-# The Dialectical Plan: an Alternative to the Paradigm
+## The Dialectical Plan: an Alternative to the Paradigm
 
 <img align="right" width="50%" src="/images/presentation-en.jpg" style="margin-left: 20px;">
 
