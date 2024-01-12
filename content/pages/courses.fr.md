@@ -2,7 +2,7 @@
 title: "Cours"
 ---
 
-# Réaliser un plan dialectique pour un sujet d’ordre général
+## Réaliser un plan dialectique pour un sujet d’ordre général
 
 <img align="right" width="60%" src="/images/presentation-plandial-fr.jpg" style="margin-left: 20px;">
 
