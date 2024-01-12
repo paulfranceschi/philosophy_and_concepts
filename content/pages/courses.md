@@ -2,7 +2,7 @@
 title: "Courses"
 ---
 
-# How to Make a Dialectical Plan
+## How to Make a Dialectical Plan
 
 <img align="right" width="60%" src="/images/presentation-en.jpg" style="margin-left: 20px;">
 
