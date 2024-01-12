@@ -1,7 +1,7 @@
 ---
 title: "Étude de concepts"
 ---
-# Analyse paradigmatique d’un corpus de proverbes à l’aide des matrices de concepts
+## Analyse paradigmatique d’un corpus de proverbes à l’aide des matrices de concepts
 Un article paru dans Semiotica (2007), volume 167, pages 271-282.
 
 Dans Franceschi (2002), j’ai présenté une théorie basée sur les matrices de concepts qui se propose de constituer une alternative à la classification proposée par Greimas, dans le domaine de l’analyse paradigmatique. Je m’attache ici à appliquer les matrices de concepts à l’analyse d’un corpus constitué de proverbes corses. Je rappelle tout d’abord brièvement le modèle des matrices de concepts. Je décris également la structure des thèses proverbiales, avant de présenter les résultats de l’analyse correspondante. [pdf](https://web-archive.southampton.ac.uk/cogprints.org/7166/1/amp.pdf)
@@ -9,7 +9,7 @@ Dans Franceschi (2002), j’ai présenté une théorie basée sur les matrices d
 <hr>
 <p></p>
 
-# Une classe de concepts
+## Une classe de concepts
 
 <img align="right" width="50%" src="/images/matrix_of_concepts_instance.jpg" style="margin-left: 20px;">
 
@@ -21,7 +21,7 @@ Dans Franceschi (2002), j’ai présenté une théorie qui se propose de constit
 <hr>
 <p></p>
 
-# Le problème des relations amour-haine-indifférence
+## Le problème des relations amour-haine-indifférence
 Dans Franceschi (2002), j’ai présenté une théorie basée sur les matrices de concepts qui se propose de constituer une alternative à la classification proposée par Greimas, dans le domaine de l’analyse paradigmatique. Le problème de la détermination des relations existant entre les concepts d’amour, de haine et d’indifférence, se pose dans cette construction. Je m’attache ainsi à décrire le problème des relations amour-haine-indifférence de manière détaillée, ainsi que plusieurs solutions qui ont été proposées pour le résoudre. Je décris enfin une solution à ce problème, basée sur une extension de la théorie des matrices de concepts.
 
 # Comparaison de deux outils conceptuels : le carré sémiotique et les matrices de concepts
