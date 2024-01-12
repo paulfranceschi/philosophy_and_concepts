@@ -2,7 +2,7 @@
 title: "Paradoxes"
 ---
 
-# A Two-Sided Ontological Solution to the Sleeping Beauty Problem
+## A Two-Sided Ontological Solution to the Sleeping Beauty Problem
 
 <img align="right" width="30%" src="/images/Sleeping_Beauty.jpg" style="margin-left: 20px;">
 
@@ -15,7 +15,7 @@ This account supersides my previous preprints on this topic. Please do no cite p
 <hr>
 <p></p>
 
-# Elements of Dialectical Contextualism
+## Elements of Dialectical Contextualism
 
 Posprint in English of  an article appeared in French in the collective book (pages 581-608) written on the occasion of the 60th birthday of Pascal Engel.
 
@@ -24,7 +24,7 @@ Abstract In what follows, I strive to present the elements of a philosophical do
 <hr>
 <p></p>
 
-# A Third Route to the Doomsday Argument
+## A Third Route to the Doomsday Argument
 
 <img align="right" width="30%" src="/images/da640x480.jpg" style="margin-left: 20px;">
 
@@ -35,7 +35,7 @@ In this paper, I present a solution to the Doomsday argument based on a third ty
 <hr>
 <p></p>
 
-# A Solution to Goodman’s Paradox
+## A Solution to Goodman’s Paradox
 
 <img align="right" width="30%" src="/images/grue640x480.jpg" style="margin-left: 20px;">
 
@@ -45,7 +45,7 @@ In the classical version of Goodman’s paradox, the universe where the problem 
 <hr>
 <p></p>
 
-# A Dichotomic Analysis of the Surprise Examination Paradox
+## A Dichotomic Analysis of the Surprise Examination Paradox
 
 <img align="right" width="30%" src="/images/sep.jpg" style="margin-left: 20px;">
 
@@ -56,7 +56,7 @@ This paper proposes a new framework to solve the surprise examination paradox. I
 <hr>
 <p></p>
 
-#  Probabilistic Situations for Goodmanian N-universes
+##  Probabilistic Situations for Goodmanian N-universes
 
 <img align="right" width="30%" src="/images/n4RRRR800x400.jpg" style="margin-left: 20px;">
 
@@ -67,7 +67,7 @@ I proceed to describe several applications of the theory of n-universes through 
 <hr>
 <p></p>
 
-# The Simulation Argument and the Reference Class Problem : a Dialectical Contextualism Analysis
+## The Simulation Argument and the Reference Class Problem : a Dialectical Contextualism Analysis
 
 <img align="right" width="30%" src="/images/simarg.jpg" style="margin-left: 20px;">
 
@@ -78,7 +78,7 @@ ABSTRACT. I present in this paper an analysis of the Simulation Argument from a 
 <hr>
 <p></p>
 
-# A Solution to the Doomsday Argument
+## A Solution to the Doomsday Argument
 
 <img align="right" width="30%" src="/images/da640x480.jpg" style="margin-left: 20px;">
 
@@ -89,7 +89,7 @@ This article presents a solution for the Doomsday Argument (DA). First, I show t
 <hr>
 <p></p>
 
-# The Doomsday Argument and Hempel’s Problem
+## The Doomsday Argument and Hempel’s Problem
 
 <img align="right" width="30%" src="/images/corvus_corax.jpg" style="margin-left: 20px;">
 
