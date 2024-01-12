@@ -2,7 +2,7 @@
 title: "Psycho-pathological philosophy"
 ---
 
-# Differential Cognitive Treatment of Polythematic Delusions and Generalised Anxiety Disorder
+## Differential Cognitive Treatment of Polythematic Delusions and Generalised Anxiety Disorder
 
 English translation of a paper published in french under the title “Traitement cognitif différentiel des délires polythématiques et du trouble anxieux généralisé“, in the Journal de Thérapie Comportementale et Cognitive, 2011, vol. 21-4, pp. 121-125.
 
@@ -11,7 +11,7 @@ Schizophrenia is often associated with other physical and mental problems. Gener
 <hr>
 <p></p>
 
-# Polythematic Delusions and Logico-Theoretical vs. Experimentalist Turn of Mind
+## Polythematic Delusions and Logico-Theoretical vs. Experimentalist Turn of Mind
 
 A paper published in the Journal for Neurocognitive Research,  Vol.  2013, 55, No. 1-2.
 
@@ -20,7 +20,7 @@ This article aims to contribute to cognitive therapy of polythematic delusions b
 <hr>
 <p></p>
 
-# On the Plausibility of Psychotic Hallucinations
+## On the Plausibility of Psychotic Hallucinations
 
 <img align="right" width="30%" src="/images/Edvard_Munch_1893_The_Scream.jpg" style="margin-left: 20px;">
 
@@ -31,7 +31,7 @@ In this paper, we describe several factors that can contribute, from the patient
 <hr>
 <p></p>
 
-# A Logical Defence of Maher’s Model of Polythematic Delusions
+## A Logical Defence of Maher’s Model of Polythematic Delusions
 
 English translation of a paper published in French in Philosophiques, autumn 2008, under the title “Une défense logique du modèle de Maher pour les délires polythématiques”.
 
@@ -41,7 +41,7 @@ In this paper, we proceed to describe a model for the formation and maintenance 
 <hr>
 <p></p>
 
-# Theory of Cognitive Distortions: Over-generalisation and Labeling
+## Theory of Cognitive Distortions: Over-generalisation and Labeling
 
 English translation of a paper published in French in the Journal de Thérapie Comportementale et Cognitive, 2009, 19-4, pages 136-140 under the title “Théorie des distorsions cognitives : la sur-généralisation et l’étiquetage”.
 
@@ -50,7 +50,7 @@ In a previous article (Complements to a theory of cognitive distorsions, Journal
 <hr>
 <p></p>
 
-# Theory of Cognitive Distortions: Personalisation
+## Theory of Cognitive Distortions: Personalisation
 
 English translation of a paper published in French in the Journal de Thérapie Comportementale et Cognitive, 2010, 20-2, pages 51-55 under the title “Théorie des distorsions cognitives : la personnalisation”.
 
@@ -59,7 +59,7 @@ In a previous paper (Complements to a theory of cognitive distorsions, Journal 
 <hr>
 <p></p>
 
-# Theory of Cognitive Distortions: Application to Generalised Anxiety Disorder
+## Theory of Cognitive Distortions: Application to Generalised Anxiety Disorder
 
 <img align="right" width="35%" src="/images/640px-Panic-attack.jpg" style="margin-left: 20px;">
 
@@ -69,7 +69,7 @@ This article follows the contribution to the general theory of cognitive distort
 <hr>
 <p></p>
 
-# Complements to a Theory of Cognitive Distortions
+## Complements to a Theory of Cognitive Distortions
 
 <img align="right" width="40%" src="/images/Fig1cdis.jpg" style="margin-left: 20px;">
 
@@ -105,7 +105,7 @@ Pennequin, V., Combalbert, N. (2017) Annales Medico-Psychologiques
 <hr>
 <p></p>
 
-# For a Typology of Auditory Verbal Hallucinations Based on their Content
+## For a Typology of Auditory Verbal Hallucinations Based on their Content
 
 A paper published in Activitas nervosa Superior (2020), 62, pages 104–109.
 
