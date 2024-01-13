@@ -83,6 +83,8 @@ This article is cited in:
 
 * Development of the Cognitive Distortion Scale for Adults (EDC-A): Study of psychometric properties in the general population and association with anxiety and depression [Création de l’Échelle de Distorsions Cognitives pour adultes (EDC-A) : étude des propriétés psychométriques en population générale et association avec l'anxiété et la dépression], Robert, A., Combalbert, N., Pennequin, V., Deperrois, R., Ouhmad, N. (2023) Psychologie Francaise
 
+* Cognitive distortions of victims: Symptoms and therapeutic lever, Sorel O., Lavandier A., Tortes Saint-Jammes J. (2023) Annales Médico-psychologiques
+
 * Cognitive distortions, anxiety, and depression in individuals suffering from PTSD, Ouhmad, N., Deperrois, R., El Hage, W., Combalbert, N. (2023) International Journal of Mental Health
 
 * Links between cognitive distortions and cognitive emotion regulation strategies in non-clinical young adulthood, Deperrois, R., Combalbert, N. (2022) Cognitive Processing
