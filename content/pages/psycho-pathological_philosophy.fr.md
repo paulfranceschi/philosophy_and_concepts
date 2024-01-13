@@ -19,6 +19,8 @@ Cet article est cité dans:
 
 * Cognitive distortions, anxiety, and depression in individuals suffering from PTSD, Ouhmad, N., Deperrois, R., El Hage, W., Combalbert, N. (2023) International Journal of Mental Health
 
+* Les distorsions cognitives des victimes : symptômes et levier thérapeutique, Sorel O., Lavandier A., Tortes Saint-Jammes J. (2023) Annales Médico-psychologiques 
+  
 * Links between cognitive distortions and cognitive emotion regulation strategies in non-clinical young adulthood, Deperrois, R., Combalbert, N. (2022) Cognitive Processing
 
 * For a Typology of Auditory Verbal Hallucinations Based on their Content, Franceschi, P. (2020) Activitas Nervosa Superior
