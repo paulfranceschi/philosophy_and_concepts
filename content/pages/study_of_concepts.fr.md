@@ -17,6 +17,11 @@ Post-publication d’un article initialement paru dans Semiotica (2002), volume 
 
 Le plan dialectique: pour une alternative au paradigme
 Dans Franceschi (2002), j’ai présenté une théorie qui se propose de constituer une alternative à la classification proposée par Greimas dans le domaine de l’analyse paradigmatique. Dans le présent article, je m’attache à tirer les conséquences de cette théorie en l’appliquant à la technique de conception de plan. En matière de plan dialectique, le paradigme actuel est en effet le plan du type thèse-antithèse-synthèse. Cette forme de plan est largement répandue et son usage se révèle consensuel. Dans ce qui suit, je présenterai un nouveau type de plan dialectique, qui se propose de constituer une alternative au plan dialectique classique. Il s’agit d’un  type de plan que l’on peut qualifier de matriciel, et qui présente plusieurs avantages par rapport au plan classique. [pdf](https://shs.hal.science/halshs-00003159/file/Une_classe_de_concepts.pdf)
+
+Cet article est cité dans:
+
+* Isis Truck, Nesrin Halouani,Souhail Jebali. Linguistic negation and 2-tuple fuzzy linguistic representation model: a new proposal. Conference on Uncertainty Modelling in Knowledge Engineering and Decision Making(FLINS2016), 2016,Roubaix, France. pp.81-86, 10.1142/9789813146976_0016
+
 <p></p>
 <hr>
 <p></p>
