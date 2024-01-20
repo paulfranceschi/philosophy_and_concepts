@@ -9,6 +9,13 @@ title: "Study of concepts"
 Posprint in English (with additional illustrations) of a paper published in French in Semiotica, vol. 139 (1-4), 2002, 211-226, under the title “Une Classe de Concepts”.
 
 This article describes the construction, of philosophical essence, of the class of the matrices of concepts, whose structure and properties present an interest in several fields. The paper emphasises the applications in the field of paradigmatic analysis of the resulting taxonomy and proposes it as an alternative to the semiotic square put forth by Greimas. [pdf]()
+
+This paper is cited by:
+
+* Paul Franceschi (2003) Le plan dialectique: Pour une alternative au paradigme, Semiotica (146):351-365
+* Andris Teikmanis (2011) The 'use' of 'semiotic' modelling as 'a' research 'tool' of 'art' history, ''Tartu Summer School of Semiotics'', August 2011
+* Paul Franceschi (2013) Polythematic Delusions and Logico-theoretical vs. Experimentalist Turn of Mind, ANS: the Journal for Neurocognitive Research, vol. 55
+* Isis Truck, Nesrin Halouani,Souhail Jebali (2016) Linguistic negation and 2-tuple fuzzy linguistic representation model: a new proposal. Conference on Uncertainty Modelling in Knowledge Engineering and Decision Making (FLINS2016), 2016, Roubaix, France. pp.81-86, 10.1142/9789813146976_0016
 <p></p>
 <hr>
 <p></p>
