@@ -2,8 +2,6 @@
 title: "A Two-Sided Ontological Solution to the Sleeping Beauty Problem: long summary"
 ---
 
-## A Two-Sided Ontological Solution to the Sleeping Beauty Problem: long summary
-
 This paper presents a novel approach to resolving the Sleeping Beauty problem by drawing an analogy with a hypothetical "hyper-entanglement urn."
 
 <img align="right" width="50%" src="/images/sleeping-beauty.jpg" style="margin-left: 20px;">
