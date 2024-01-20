@@ -20,7 +20,7 @@ Dans Franceschi (2002), j’ai présenté une théorie qui se propose de constit
 
 Cet article est cité dans:
 
-* Isis Truck, Nesrin Halouani,Souhail Jebali. Linguistic negation and 2-tuple fuzzy linguistic representation model: a new proposal. Conference on Uncertainty Modelling in Knowledge Engineering and Decision Making(FLINS2016), 2016,Roubaix, France. pp.81-86, 10.1142/9789813146976_0016
+* Isis Truck, Nesrin Halouani,Souhail Jebali. Linguistic negation and 2-tuple fuzzy linguistic representation model: a new proposal. Conference on Uncertainty Modelling in Knowledge Engineering and Decision Making (FLINS2016), 2016, Roubaix, France. pp.81-86, 10.1142/9789813146976_0016
 
 <p></p>
 <hr>
