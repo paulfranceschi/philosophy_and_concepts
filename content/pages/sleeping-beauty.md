@@ -1,5 +1,5 @@
 ---
-title: "The Doomsday Argument and Hempel's problem: long summary"
+title: "A Two-Sided Ontological Solution to the Sleeping Beauty Problem: long summary"
 ---
 
 # A Two-Sided Ontological Solution to the Sleeping Beauty Problem: long summary
