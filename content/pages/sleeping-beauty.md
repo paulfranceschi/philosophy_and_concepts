@@ -4,6 +4,9 @@ title: "A Two-Sided Ontological Solution to the Sleeping Beauty Problem: long su
 
 This paper presents a novel approach to resolving the Sleeping Beauty problem by drawing an analogy with a hypothetical "hyper-entanglement urn."
 
+## The Hyper-Entanglement Urn:
+I begin by introducing a thought experiment involving an urn containing red and green balls. Some red balls are hyper-entangled with green balls, meaning that removing a red ball also removes its entangled green counterpart, and vice versa. This urn serves as an analogy for understanding the Sleeping Beauty problem, highlighting the unique properties of hyper-entangled objects.
+
 ## The Sleeping Beauty Problem:
 
 <img align="right" width="50%" src="/images/sleeping-beauty.jpg" style="margin-left: 20px;">
@@ -12,9 +15,6 @@ Sleeping Beauty is put to sleep and awakens without memory of previous awakening
 
 ## The Urn Analogy:
 I suggest that the standard urn analogy used in both the halfer and thirder arguments is insufficient. I argue that the Sleeping Beauty problem is more accurately represented by the hyper-entanglement urn. This is because, in the case of Tails, the awakenings on Monday and Tuesday are inseparable, much like the hyper-entangled balls. This insight leads to a new way of conceptualizing the problem.
-
-## The Hyper-Entanglement Urn:
-I begin by introducing a thought experiment involving an urn containing red and green balls. Some red balls are hyper-entangled with green balls, meaning that removing a red ball also removes its entangled green counterpart, and vice versa. This urn serves as an analogy for understanding the Sleeping Beauty problem, highlighting the unique properties of hyper-entangled objects.
 
 ## Consequences of the Analogy with the Hyper-Entanglement Urn:
 The paper explores the implications of this new analogy. It suggests that considering the balls as either individual colors or as hyper-entangled objects (pairs) leads to different probabilities. This distinction mirrors the halfer and thirder perspectives but within a unified framework. I show that depending on whether we focus on the color or the object nature of the balls, we arrive at different probabilities for drawing a red (or green) ball, which parallels the probabilities of waking on Monday or Tuesday in the Sleeping Beauty problem.
