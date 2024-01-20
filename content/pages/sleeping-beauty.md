@@ -4,9 +4,10 @@ title: "A Two-Sided Ontological Solution to the Sleeping Beauty Problem: long su
 
 This paper presents a novel approach to resolving the Sleeping Beauty problem by drawing an analogy with a hypothetical "hyper-entanglement urn."
 
+## The Sleeping Beauty Problem:
+
 <img align="right" width="50%" src="/images/sleeping-beauty.jpg" style="margin-left: 20px;">
 
-## The Sleeping Beauty Problem:
 Sleeping Beauty is put to sleep and awakens without memory of previous awakenings. The probability of the coin toss (Heads or Tails) determines her awakenings. The problem is to determine the probability that the coin landed Heads upon her awakening. Two main perspectives exist: the 'halfer' view (probability is 1/2) and the 'thirder' view (probability is 1/3). I argue that these perspectives are limited and proposes to consider the problem more broadly.
 
 ## The Urn Analogy:
