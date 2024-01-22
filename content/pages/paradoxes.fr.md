@@ -6,7 +6,7 @@ title: "Paradoxes"
 
 <img align="right" width="30%" src="/images/simarg.jpg" style="margin-left: 20px;">
 
-Un [article](https://www.erudit.org/fr/revues/philoso/2016-v43-n2-philoso02859/1038211ar/) paru dans la revue Philosophiques, Volume 43, Numéro 2, Automne, 2016, p. 371–389
+Un [article](https://www.erudit.org/fr/revues/philoso/2016-v43-n2-philoso02859/1038211ar/) paru dans la revue [Philosophiques](https://www.erudit.org/fr/revues/philoso/), Volume 43, Numéro 2, Automne, 2016, p. 371–389
 
 
 Je présente dans cet article une analyse de l’argument de la Simulation selon le point de vue du contextualisme dialectique, fondée sur le problème de la classe de référence. Je décris tout d’abord étape par étape l’argument de la Simulation. J’identifie ensuite la classe de référence et j’applique successivement l’argument à plusieurs classes de référence distinctes : les simulations conscientes de leur propre nature de simulation, les simulations grossières et les simulations de type cyborg. Finalement, je montre qu’il existe trois niveaux de conclusion dans l’argument de la Simulation, selon la classe de référence choisie, qui engendrent des conclusions finales d’une nature très différente.
