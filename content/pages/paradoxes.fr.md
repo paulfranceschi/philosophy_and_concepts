@@ -30,7 +30,7 @@ Dans ce qui suit, je m’attacherai à présenter une solution au problème pos�
 
 <img align="right" width="30%" src="/images/sep.jpg" style="margin-left: 20px;">
 
-Post-publication d’un article publié dans la revue Philosophiques, Volume 32, numéro 2, automne 2005, pages 399–421.
+Post-publication d’un article publié dans la revue [Philosophiques](https://www.erudit.org/fr/revues/philoso/), Volume 32, numéro 2, automne 2005, pages 399–421.
 
 Je présenterai dans ce qui suit un cadre conceptuel nouveau, en ce sens qu’il réorganise plusieurs éléments de solution décrits dans la littérature, pour résoudre le paradoxe de l’examen-surprise (surprise examination paradox, soit SEP). La solution proposée ici repose sur les éléments essentiels suivants : (a) une distinction entre analyse moniste et dichotomique du paradoxe ; (b) l’introduction d’une définition matricielle, qui sert de support à différentes variations du paradoxe ; (c) la distinction entre une définition conjointe ou disjointe des cas de surprise et de non-surprise, conduisant à deux notions structurellement distinctes de surprise.
 <p></p>
