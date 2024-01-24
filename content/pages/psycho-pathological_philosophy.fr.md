@@ -15,6 +15,8 @@ Cet article est cité dans:
 
 * Maladaptive cognitions and emotion regulation in posttraumatic stress disorder, Ouhmad, N., El-Hage, W., Combalbert, N.	(2023) Neuropsychiatrie
 
+* Naren D. Selvaratnam, Ooi Boon Keat, Jacquline Tham. (2023). [Conversational Difficulties, Cognitive Distortions, and Leadership Efficacy of Minority Students in Sri Lankan Public Universities](https://jrtdd.com/index.php/journal/article/view/1138). Journal for ReAttach Therapy and Developmental Diversities, 6(10s), 395–408.
+
 * Development of the Cognitive Distortion Scale for Adults (EDC-A): Study of psychometric properties in the general population and association with anxiety and depression [Création de l’Échelle de Distorsions Cognitives pour adultes (EDC-A) : étude des propriétés psychométriques en population générale et association avec l'anxiété et la dépression], Robert, A., Combalbert, N., Pennequin, V., Deperrois, R., Ouhmad, N. (2023) Psychologie Francaise
 
 * Cognitive distortions, anxiety, and depression in individuals suffering from PTSD, Ouhmad, N., Deperrois, R., El Hage, W., Combalbert, N. (2023) International Journal of Mental Health
