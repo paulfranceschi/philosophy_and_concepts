@@ -28,6 +28,6 @@ Dans cet ouvrage, Paul Franceschi nous livre une introduction à la philosophie 
 
 <img align="right" width="50%" src="/images/presentation-plandial-fr.jpg" style="margin-left: 20px;">
 
-Mon cours (durée : 4h08) intitulé “Réaliser un plan dialectique pour un sujet d’ordre général” (à partir de ce lien, vous bénéficiez d’une réduction importante) est en ligne sur Udemy.
+Mon cours (durée : 4h08) intitulé “Réaliser un plan dialectique pour un sujet d’ordre général” est en ligne sur Udemy.
 
 Le cours est une version à visée pédagogique et pratique, qui expose les notions contenues dans mes articles Une classe de concepts et Le plan dialectique : pour une alternative au paradigme, publiés dans la revue Semiotica.
