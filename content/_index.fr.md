@@ -16,7 +16,6 @@ Les travaux présentés impliquent des champs apparemment très différents. Cep
 
 <img align="left" width="35%" src="/images/cover-intro-phi3-fr.jpg" style="margin-right: 20px;">
 
-3ème édition, avec de nouvelles illustrations
 Il s’agit de la 3ème édition, avec des illustrations nouvelles. De plus, autant que possible, chaque exemplaire du livre broché ou relié est unique, en ce sens qu’une ou plusieurs illustrations sont changées à chaque nouvelle édition, indiquée par son numéro # (par exemple #2). Il s’agit d’une technique de personnalisation qui est permise par la méthode moderne d’impression à la demande et qui en constitue une caractéristique exclusive.
 
 Dans cet ouvrage, Paul Franceschi nous livre une introduction à la philosophie analytique. De manière concrète, il choisit de décrire quarante paradoxes, arguments ou problèmes philosophiques, qui constituent autant de défis pour la philosophie contemporaine et l’intelligence humaine. Car certains paradoxes d’origine millénaire – tels que le Menteur ou le paradoxe sorite – ne sont toujours pas résolus à l’époque actuelle. D’autres énigmes philosophiques en revanche – telles que l’argument de l’Apocalypse – ne sont apparues que très récemment dans la littérature. L’auteur s’attache à nous présenter clairement chacun de ces problèmes ainsi que les principales tentatives qui ont été formulées pour les résoudre.
