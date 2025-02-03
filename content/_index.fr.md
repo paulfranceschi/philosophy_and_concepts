@@ -14,9 +14,14 @@ Les travaux présentés impliquent des champs apparemment très différents. Cep
 <hr>
 <p></p>
 
-<img align="left" width="35%" src="/images/cover-intro-phi3-fr.jpg" style="margin-right: 20px;">
+<img align="left" width="35%" src="/images/cover-amazon.jpg" style="margin-right: 20px;">
 
-Il s’agit de la 3ème édition, avec des illustrations nouvelles. De plus, autant que possible, chaque exemplaire du livre broché ou relié est unique, en ce sens qu’une ou plusieurs illustrations sont changées à chaque nouvelle édition, indiquée par son numéro # (par exemple #2). Il s’agit d’une technique de personnalisation qui est permise par la méthode moderne d’impression à la demande et qui en constitue une caractéristique exclusive.
+Dans cet ouvrage, Paul Franceschi propose une méthode novatrice pour aborder et résoudre les conflits de valeurs. Il guide pas-à-pas le lecteur à travers l’analyse de nombreuses situations, représentatives des types de conflits de valeurs les plus courants. il présente des stratégies adaptées, issues de l'analyse logique de ces situations. Chaque cas est exploré en détail, avec des exemples tirés de la vie quotidienne, d’événements historiques et de la littérature mondiale. Rédigé dans un style clair et accessible, ce livre ne nécessite aucune connaissance préalable. Il est enrichi de nombreux diagrammes et illustrations qui facilitent la compréhension des différentes notions et offrent un éclairage structuré sur les dynamiques conflictuelles. Un guide utile pour mieux appréhender les complexités des valeurs humaines et développer vos compétences en matière de résolution de conflits.
+<p></p>
+<hr>
+<p></p>
+
+<img align="left" width="35%" src="/images/cover-intro-phi3-fr.jpg" style="margin-right: 20px;">
 
 Dans cet ouvrage, Paul Franceschi nous livre une introduction à la philosophie analytique. De manière concrète, il choisit de décrire quarante paradoxes, arguments ou problèmes philosophiques, qui constituent autant de défis pour la philosophie contemporaine et l’intelligence humaine. Car certains paradoxes d’origine millénaire – tels que le Menteur ou le paradoxe sorite – ne sont toujours pas résolus à l’époque actuelle. D’autres énigmes philosophiques en revanche – telles que l’argument de l’Apocalypse – ne sont apparues que très récemment dans la littérature. L’auteur s’attache à nous présenter clairement chacun de ces problèmes ainsi que les principales tentatives qui ont été formulées pour les résoudre.
 
