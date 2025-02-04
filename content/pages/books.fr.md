@@ -13,6 +13,14 @@ Dans cet ouvrage (3ème édition), Paul Franceschi nous livre une introduction �
 <hr>
 <p></p>
 
+<img align="left" width="35%" src="/images/six-pillars-amazon-cover.jpg" style="margin-right: 20px;">
+
+Dans ce [livre](https://www.amazon.fr/six-piliers-Sagesse-M%C3%A9thode-conflits/dp/B0DSW765S1), Paul Franceschi propose une méthode novatrice pour aborder et résoudre les conflits de valeurs. Il guide pas-à-pas le lecteur à travers l’analyse de nombreuses situations, représentatives des types de conflits de valeurs les plus courants. il présente des stratégies adaptées, issues de l'analyse logique de ces situations. Chaque cas est exploré en détail, avec des exemples tirés de la vie quotidienne, d’événements historiques et de la littérature mondiale. Rédigé dans un style clair et accessible, ce livre ne nécessite aucune connaissance préalable. Il est enrichi de nombreux diagrammes et illustrations qui facilitent la compréhension des différentes notions et offrent un éclairage structuré sur les dynamiques conflictuelles. Un guide utile pour mieux appréhender les complexités des valeurs humaines et développer vos compétences en matière de résolution de conflits.
+<p></p>
+<hr>
+<p></p>
+
+
 ## L’ABC du plan dialectique matriciel
 <img align="right" width="30%" src="/images/cover_pdm.jpg" style="margin-left: 20px;">
 
